@@ -122,10 +122,10 @@ The largest country on Nova Terra by land area, and home to a large population o
 **Montagnais** - very northern, poor for Tankian standards (which naturally means “filthy rich by Nova Terra standards”), with a fishing and resource-extraction economy.  
 **Touraine** - the smallest province, on the northeastern Great Ocean coast, very culturally distinct, home to many shipyards. Built in part upon tourism.  
 **Tejaho** - a very rich far southern province with an independent streak, typically conservative but still remains liberal, even progressive in surprising areas, conquered in 1745 from the Skiyian Empire. Stunning economic growth as of late, fuelled by industrialisation.  
-**Armorica** – coastal, rainy, forested and mountainous. Still feels like a frontier even though it’s been several centuries since it’s been an independent country. Increasingly home to high tech and manufacturing, coexisting awkwardly with the traditional mining, agriculture and fishing of the region.  
-**Sierrana** – conquered from the Skiyian Empire 1742-1745, rapidly growing to become one of the most important states, only the urban coast is famous; primarily for movie productions and surfing, home to the third largest city in the country, Los Tancas. Hosts some of the best weather in the country, with dry heat.  
-**Firenco** – major seafaring nation when it was independent, conquered in 1785, very cold, and naturally stunning. Home to great fjords and some mountains. An economy built on mining.  
-**Juneau** – actually a fusion of four former nations, including Rigel - quite rugged and cold, largely uninhabitable, conquered between 1791-1797. The economy is also built on mining. 
+**Armorica** - coastal, rainy, forested and mountainous. Still feels like a frontier even though it’s been several centuries since it’s been an independent country. Increasingly home to high tech and manufacturing, coexisting awkwardly with the traditional mining, agriculture and fishing of the region.  
+**Sierrana** - conquered from the Skiyian Empire 1742-1745, rapidly growing to become one of the most important states, only the urban coast is famous; primarily for movie productions and surfing, home to the third largest city in the country, Los Tancas. Hosts some of the best weather in the country, with dry heat.  
+**Firenco** - major seafaring nation when it was independent, conquered in 1785, very cold, and naturally stunning. Home to great fjords and some mountains. An economy built on mining.  
+**Juneau** - actually a fusion of four former nations, including Rigel - quite rugged and cold, largely uninhabitable, conquered between 1791-1797. The economy is also built on mining. 
 **Tank City** — Not actually a province, but the federal district that houses the nation’s largest city and federal capital (the municipality covers the same territory as the federal district but is technically not the same thing). Officially Ville-Tank, but referred to in Britannian-language sources as Tank City. According to many, the economic capital of the world. Home to landmarks like the Rose Palace (residence of the President), the Tank City Stock Exchange (also known as La Bourse; the largest securities exchange in the world by market cap), Federation Tower (the tallest building in the world), the United Provinces Capitol, Republic Square (the most famous plaza in the world) and the Statue of Unity. Affectionately dubbed the Big Apple and Metropolis.
 
 The populations of each Tankian territory formally part of the UTP, ca. 1963 NE:  
@@ -181,21 +181,21 @@ Economy: Once upon a time, Rapusia was the world’s dominant economic power; du
 
 **Geography:** Rapusia is a federation of fifteen states, each with its own history and political system before coming together as part of a federation in 1804. Even today, Rapusia is known as the heartland of the remnants of feudalism. Those states, in approximate descending order of importance, are:
 
-**Rapusia** — The cultural, economic, political and demographic heart of the empire, with 162 million people. The most developed part of the empire, contributing roughly 60% of the Empire’s GDP.  
-**Mossovy** — The second-most important state of the empire, home to 80 million people, located in the east. Largely rural, but with significant urban and industrial areas.  
-**Ostmark** — An important state, home to much of the Empire’s agricultural production (and is indeed one of the most important agricultural regions in the world). Mostly flat, allowing it to accommodate 23 million people.  
-**Kavkazia** — A major industrial and agricultural region; but mostly known for mining.  
-**Erdmaria** — One of the poorest, most backwards regions of Rapusia (located to the southeast of Kavkazia; right next to the border with Canausbel), right up there with Lippenia. Principally an area of agriculture and resource extraction.  
-**White Rapusia** — An increasingly industrial region located just to the east of Rapusia.  
-**Lippenia** — Largely hilly with pockets of flatland, this is the archetypal land of the backwards Rapusian. Largely agricultural. Borders Canausbel.  
-**Kuybania** — A principally agricultural region to the west of Kavkazia.  
-**Contana** — Located along the Contanan Sea, a disproportionately developed region of Rapusia. The government is turning this region into a technologically-oriented land (being the current hub of computer development in Rapusia).  
-**Sudmark** — Home to much of Rapusia’s oil reserves, and mostly flat aside from the border with Rapusia to the northeast and Lippenia to the east. Borders Canausbel.  
-**Uridia** — A small borderland with Pusheen Country. Principally based on lumber and mining.  
-**Goteland** — A naval-inclined region located on the coast on the Oculus. Also a major internal tourist destination for its beaches.  
-**Ingrenburg** — The northernmost big city of the country, located at the end of a gulf of the Contanan Sea. Population: 3 million.  
-**Ersenburg** — The Empire’s primary naval base on the Oculus.  
-**Franzhaven** — The Empire’s *other* naval base on the Oculus. Also a bit of an industrial city too.  
+- **Rapusia** — The cultural, economic, political and demographic heart of the empire, with 162 million people. The most developed part of the empire, contributing roughly 60% of the Empire’s GDP.  
+- **Mossovy** — The second-most important state of the empire, home to 80 million people, located in the east. Largely rural, but with significant urban and industrial areas.  
+- **Ostmark** — An important state, home to much of the Empire’s agricultural production (and is indeed one of the most important agricultural regions in the world). Mostly flat, allowing it to accommodate 23 million people.  
+- **Kavkazia** — A major industrial and agricultural region; but mostly known for mining.  
+- **Erdmaria** — One of the poorest, most backwards regions of Rapusia (located to the southeast of Kavkazia; right next to the border with Canausbel), right up there with Lippenia. Principally an area of agriculture and resource extraction.  
+- **White Rapusia** — An increasingly industrial region located just to the east of Rapusia.  
+- **Lippenia** — Largely hilly with pockets of flatland, this is the archetypal land of the backwards Rapusian. Largely agricultural. Borders Canausbel.  
+- **Kuybania** — A principally agricultural region to the west of Kavkazia.  
+- **Contana** — Located along the Contanan Sea, a disproportionately developed region of Rapusia. The government is turning this region into a technologically-oriented land (being the current hub of computer development in Rapusia).  
+- **Sudmark** — Home to much of Rapusia’s oil reserves, and mostly flat aside from the border with Rapusia to the northeast and Lippenia to the east. Borders Canausbel.  
+- **Uridia** — A small borderland with Pusheen Country. Principally based on lumber and mining.  
+- **Goteland** — A naval-inclined region located on the coast on the Oculus. Also a major internal tourist destination for its beaches.  
+- **Ingrenburg** — The northernmost big city of the country, located at the end of a gulf of the Contanan Sea. Population: 3 million.  
+- **Ersenburg** — The Empire’s primary naval base on the Oculus.  
+- **Franzhaven** — The Empire’s *other* naval base on the Oculus. Also a bit of an industrial city too.  
 
 **The Four Sisters:** The Four Sisters are the four great megacorporations of Rapusia, each named after the family that owns them (even if some are nominally publicly listed on the Brandenstadt Stock Exchange). They are composed of the Marten Group (vehicles, steel and arms), IG Meyer (pharmaceuticals and chemicals), Geisel (energy) and Hoffman (electrical equipment). Rapusische Banke and Rapusische Energie, although almost as big as them, are not counted due to being a financial institution owned in large part by the state and a state-owned corporation respectively.
 
@@ -410,19 +410,19 @@ Culture: A very diverse country with at least 12 separate ethnic groups. Even if
 
 **Kingerse** — Federal directorial republic across a vast (~2.27M km²) sparsely populated arctic islands (one much larger than the other). Pop. ~12M. Capital Kuusaaq. GDP per capita C3,653 — highest on Nova Terra, driven primarily by banking (Kingersean Union Bank has near-legendary secrecy; functions as money-laundering haven simultaneously). Constitutionally committed to neutrality. CoN observer (non-member); uniquely hosts and sends embassies despite not being a great power, informally recognised for its indispensable direct-mediation role. Culture shaped by Inuit-inspired traditions, such as kaffemik. Strong respect for nature, emerging from the harsh nature of life up north before modern technology; which intersects with their propensity for hospitality and communalism. Perhaps unsurprisingly, one of the most environmentally-friendly countries on Nova Terra, due to it having industrialised before developing (very limited) agriculture. Founded in the 7th century; the monarchy was overthrown 1829 (inspired by the restoration of the United Republic of North Contana). Currency: florin (decimalised 1901). Possesses the world’s 8th-largest navy.
 
-**Konnelia** – Socialist, southeast Antarean, tropical, former Ishanian protectorate, close Canausbelite ally. Strong independent streak, and a major regional power in its own right, primarily opposing Dai-Koku’s corporate imperialism in the region. Adversarial relationship with Sharisam that could erupt into war given the right circumstances. Rapidly developing independently using economic planning, and urbanisation and industrialisation are well underway. Notable exports include agricultural products, processed foods and increasingly arms and machinery. Formerly an Ishanian protectorate (and with a significant portion of it under Rapusian colonial rule), before it essentially liberated itself from both their oppressors during the Great War.
+**Konnelia** — Socialist, southeast Antarean, tropical, former Ishanian protectorate, close Canausbelite ally. Strong independent streak, and a major regional power in its own right, primarily opposing Dai-Koku’s corporate imperialism in the region. Adversarial relationship with Sharisam that could erupt into war given the right circumstances. Rapidly developing independently using economic planning, and urbanisation and industrialisation are well underway. Notable exports include agricultural products, processed foods and increasingly arms and machinery. Formerly an Ishanian protectorate (and with a significant portion of it under Rapusian colonial rule), before it essentially liberated itself from both their oppressors during the Great War.
 
 **Western/West Quaristanicaval (affectionately dubbed WQ)** — Democratic capitalist nation (geographically Argentine, with vast plains leading to large mountains on the border with Pangarap to the west, New Zealandic in climate, temperate slowly becoming boreal the further south you go). GDP per capita C987, close to the global average. Formerly a Skiyian colony before gaining independence as Quaristanicaval. Pangarap seceded in 1929). Functionally forgotten about — a running Nova Terran in-joke WQ has adopted enthusiastically. Attends FNA summits when it needs tanks to deter Pangarap (as an observer); usually gets tanks; Pangarap periodically threatens war to “reclaim the land of the Pangarapi people.” The Quaristanicavali foederati of the Auxurian Empire ended the Classical Period by sacking Tzantium in 798 — almost nobody remembers this aside from Western Quaristanicaval, however; everyone else tends to remember it as a sidenote, focusing on the sack itself. A hub for the mead industry (mead being one of the most popular drinks in the Skiyosphere), with an economy principally built upon agriculture and light industry.
 
-**Pacifica** – A decently large island nation governed by a relatively benevolent absolute monarchy. Once a member of the Grand Alliance during the Great War, it has since become a member of the Taunfurt Pact out of resentment towards unfulfilled promises of those powers of the Grand Alliance. A major naval power. However, it has become increasingly economically stagnant and penetrated by the Dai-Kokuese zaibatsu. Notable industries include fishing, agriculture and increasingly light manufacturing and resource extraction. Notable portions of the population live in traditional partially subterranean housing.
+**Pacifica** — A decently large island nation governed by a relatively benevolent absolute monarchy. Once a member of the Grand Alliance during the Great War, it has since become a member of the Taunfurt Pact out of resentment towards unfulfilled promises of those powers of the Grand Alliance. A major naval power. However, it has become increasingly economically stagnant and penetrated by the Dai-Kokuese zaibatsu. Notable industries include fishing, agriculture and increasingly light manufacturing and resource extraction. Notable portions of the population live in traditional partially subterranean housing.
 
 **Pangarap** — Totalitarian indigenist military dictatorship; most comically evil regime on Nova Terra. Elites more oppressed than commoners. Revolutionary-nationalist with eugenics, pro-natalist policies, isolationism, interference in foreign nations’ politics, agrarianism, and outdated civilian technology. Daily life resembles the 1890s (including the industry and child labor in that industry); but simultaneously Pangarap has a nuclear program and has built the Father of All Bombs, a 25kt thermobaric weapon. Most bureaucratic state on Nova Terra. GDP per capita C150. Established via military revolt from WQ in the 1920s. Military-directed economy that principally exports arms, agricultural products and minerals like salt. Secretly attempts to influence the world to provoke a crisis of capitalism (including possible nuclear war) by supporting certain groups (covert accelerationism), to mixed results. Upper echelons of society are split between conservatives, reformists and accelerationists; with the reformists largely wanting to make the system more efficient (in contrast to their leader, Ramon Giulas, who wants to stop the purges because he saw his comrades get purged for no reason). Language: Skiyian (Spanish); with a new constructed language based on the pre-colonial indigenous languages of the region (Pangarapese; Filipino) being currently in the process of adoption. **Indigenism:** a far-right ideology that varies in its exact nature by country, but as a rule emphasizes the role of “indigenous” culture (as defined by the indigenist) at the expense of “cosmopolitanism” and “modernity.” A major current of the Nova Terran far-right, periodically used as a pejorative label.
 
 **Twittertopia** — Chaotic, ochlocratic, ostensibly progressive regime. Real power lies with the Peace Force (a deep state of sorts), the Revolutionary Council and the loudest factional voices. Free speech absolutism produces militarised factional street warfare. Special economic zones fund the anti-corporate regime; the Peace Force runs foreign businesses and criminal enterprises including drug trafficking. Claims anti-imperialism while invading neighbours. The military, the Twittertopian Defense Forces, uses lever-action rifles and attempts to use a strategy of popular war (while simultaneously summarily executing suspected “reactionaries”). Currently in a chaotic civil war ever since the defeat in the Anglo-Twittertopian War (1958-1959) in 1959. GDP per capita C288. Nominally Third International-aligned; but Canausbel remains quietly relieved it has no formal status. Like Reddit Island, built upon settler-colonialism of former Skiyian territory by dissidents fleeing from other regions of the world and seizing power in the aftermath of the fall of Skiyia in 1875. Rivals with Reddit Island.
 
-**Traroria** – Authoritarian council-socialist (Maximalist) technocratic state, major power in central Libra, rivals with Jesusland. Has some expansionist ideas, but tends to be very subtle about them. Porte Alegreya, the capital and largest city of the nation, is a major hub for commerce in the region, despite efforts at autarky. Due to the rapid economic development that has taken place (and the fact that the socialists overthrew a legitimately unpopular monarchy towards the very end of the Great War), the Trarorian Workers’ Party has actually been decently popular for most of its rule. Fought a brutal war with Jesusland from 1950 to 1958, eerily reminiscent of the Great War in terms of stagnancy of front lines, attrition and environmental destruction (though what wasn’t comparable was the increasing use of child soldiers towards the end to fill in gaps in manpower caused by increasing desertion rates amongst adult soldiers).
+**Traroria** — Authoritarian council-socialist (Maximalist) technocratic state, major power in central Libra, rivals with Jesusland. Has some expansionist ideas, but tends to be very subtle about them. Porte Alegreya, the capital and largest city of the nation, is a major hub for commerce in the region, despite efforts at autarky. Due to the rapid economic development that has taken place (and the fact that the socialists overthrew a legitimately unpopular monarchy towards the very end of the Great War), the Trarorian Workers’ Party has actually been decently popular for most of its rule. Fought a brutal war with Jesusland from 1950 to 1958, eerily reminiscent of the Great War in terms of stagnancy of front lines, attrition and environmental destruction (though what wasn’t comparable was the increasing use of child soldiers towards the end to fill in gaps in manpower caused by increasing desertion rates amongst adult soldiers).
 
-**Cavalistan** – Left-wing nationalist, Bourquist, largely desert with a northern section that’s Annular and which holds the vast majority of the population; a former Qurkian colony that gained independence in 1911. Also a notable exporter of petroleum. Historically nomadic, but forced sedentarization enacted by Qurkian authorities has led in part to modern Cavali culture. Once fought a war with Kekistan (see the Grease War), and won it; they’re still quite proud of it. Very complicated relations with Skiyia (due to the Great War, where the Skiyian Republic attempted to unite Cavalistan through force), though both at the very least have historically been opposed to Qurkia and frequently cooperate to oppose the latter’s efforts to dominate West Libra as it did long ago.
+**Cavalistan** — Left-wing nationalist, Bourquist, largely desert with a northern section that’s Annular and which holds the vast majority of the population; a former Qurkian colony that gained independence in 1911. Also a notable exporter of petroleum. Historically nomadic, but forced sedentarization enacted by Qurkian authorities has led in part to modern Cavali culture. Once fought a war with Kekistan (see the Grease War), and won it; they’re still quite proud of it. Very complicated relations with Skiyia (due to the Great War, where the Skiyian Republic attempted to unite Cavalistan through force), though both at the very least have historically been opposed to Qurkia and frequently cooperate to oppose the latter’s efforts to dominate West Libra as it did long ago.
 
 **Kekistan** — Authoritarian-conservative, occasionally expansionist regime, largely desertic with an Annular coast. “Big Man Tyrone” (a *nom de guerre*) is the supreme leader and military dictator. Oil exporter. Aligned with Rapusia without being a member of the Taunfurt Pact. Historically lost a war to Cavalistan (Grease War; 1948-1949, Kekistan attacked Cavalistan but lost, and ceded some territory in the southwest). National interjection/battle cry: "Shadilay" (meaning "fight"; uncertain etymology). Formerly Rapusia-friendly, but drifted away after the Grease War and is now firmly neutral. Brewing socialist unrest in the military. Once worshiped a god named Kek, who gave the country its current name.
 
@@ -432,7 +432,7 @@ Culture: A very diverse country with at least 12 separate ethnic groups. Even if
 
 **Androsia** — Aggressively patriarchal manosphere society; where women are legally property. CoN observer. Nominally a Taunfurt Pact observer, but increasingly estranged from its nominal allies due to its aggressive rhetoric and participation in the slave trade. In essence, a corrupt, militaristic dictatorship with a caste system. Applied once for formal Taunfurt Pact membership — Rapusia left it on read. Has not applied again. Increasingly unstable due to discontent amongst the “beta males” (the male underclass meant to fight amongst themselves to become “alphas,” the ruling class) and women, who likely only stay here because leaving this country is much harder than entering it (soldiers stationed at the border are ordered to shoot anyone trying to leave illegally); along with being in an economic death spiral due to the consequences of the Great War. In terms of military performance, a bit of a mixed bag, in spite (or maybe because) of the rigorous (even brutal) selection process for soldiers and the rough training, creating fanatical soldiers more suited for suppressing protests than actual combat. After Rapusia invaded and liberated the country in the Two-Day War (1968), a puppet state (the Republic of Androsia, under Pact-Commission Androsia as a provisional regime) was established, with the final name of Elefthera being chosen by popular referendum in 1972. Also the last major Atlantean-speaking state in the world, speaking a more conservative form called Katharevousa (in contrast to the dialect of Atlantis, called Demotic).
 
-**Central Hydra** – A federal republic located in Central Hydra (formerly a Skiyian colony under the Viceroyalty of New Skiyia, before gaining independence in the 1820s), ruled by a military dictatorship established in 1952 by a military coup against a socialist-liberal coalition elected government; allegedly sponsored by Rapusia. Aligned with Rapusia, though keeps it subtle in order to avoid angering the UTP to such an extent that they get overthrown again; but it’s hard to be subtle when you’re a dictatorship willing to torture, execute, military tribunal, trial en masse and do all sorts of lovely things in the same vein as that. The archetypal “banana republic” due to the fact that much of the economy is based on fruit production. If there’s a joke about one such country on Nova Terra, it’s probably Central Hydra. A cult of personality exists surrounding El Présidente (President-for-life Matteo Manuel Ortega) and his policies, being exalted as the saviour of the nation from decadence, Tankianness and chaos.
+**Central Hydra** — A federal republic located in Central Hydra (formerly a Skiyian colony under the Viceroyalty of New Skiyia, before gaining independence in the 1820s), ruled by a military dictatorship established in 1952 by a military coup against a socialist-liberal coalition elected government; allegedly sponsored by Rapusia. Aligned with Rapusia, though keeps it subtle in order to avoid angering the UTP to such an extent that they get overthrown again; but it’s hard to be subtle when you’re a dictatorship willing to torture, execute, military tribunal, trial en masse and do all sorts of lovely things in the same vein as that. The archetypal “banana republic” due to the fact that much of the economy is based on fruit production. If there’s a joke about one such country on Nova Terra, it’s probably Central Hydra. A cult of personality exists surrounding El Présidente (President-for-life Matteo Manuel Ortega) and his policies, being exalted as the saviour of the nation from decadence, Tankianness and chaos.
 
 **Free Cities** - A decentralised federation of city-states in North Hydra nominally loyal to the Viceroyalty of New Skiyia, but in practice an independent state. Very important centres of trade in the region, aligned somewhat with the FNA despite being ruled by an aristocratic Council of Fifty, formerly confident in their importance to trade so that they would be always satisfied… at least until the 1890s, when the UTP showed a willingness to cow them into accepting their economic and political demands. Since then, the Free Cities have become surprisingly democratic, and suffice to say they are at best an aristocracy in name only. Recently, the Free Cities have turned to Rapusian alignment (Tankian interference would surely make you oppose the Tankians). The leader of the Free Cities, the figurehead of the Archon, is elected by the Council of Knowledge (a separate body from the Fifty) after a series of extensive debates and shows where they show off their sacred Knowledge of the history and culture of Old Terra (as they see it). The centrepiece of the War of the Free Cities (1692-1699), which saw Rapusia briefly establish a colonial foothold in the region before being forced to withdraw during the War of the Rapusian Succession.
 
@@ -440,7 +440,7 @@ Culture: A very diverse country with at least 12 separate ethnic groups. Even if
 
 **Aarbrau** — Small South Hydran matriarchal parliamentary monarchy. Borders WQ to west, Auxur to northeast. 12% male unemployment, chronic inflation, corruption and general economic stagnation (caused by ineffective import-substitution industrialisation) causing emigration to WQ. Taunfurt Pact candidate and observer status. Matriarchy produces ordinary political dysfunction rather than distinctive dysfunction due to the fact that it’s a matriarchy that acts like a patriarchy with the roles reversed. Anocratic and particratic in nature; due to the fact that the principal competition is between political machines (the Liberal and Conservative parties) that negotiate the outcomes of elections before they occur.
 
-**Fillerant** – A small, heavily industrialised, mountainous monarchy in central Columba that is something like a matriarchy; one of two on Nova Terra (the other being Aarbrau). Women can and do occupy major roles in the government, and are generally held in high esteem. The Chamber of Elders, a consultative assembly of the matriarchs of the leading families of the nation, is consulted by lawmakers before laws are enacted. This is a cultural thing, enshrined primarily by convention. However, gender equality is notably advanced in Fillerant, enough that it has been cited by the Community of Nations, despite its relative geopolitical isolation. Primarily exports chemicals, machinery, some consumer goods and textiles. Very hard to invade due to the mountains, which is in part how it has managed to survive for so long even when it wasn’t a united country. Significant pro-Taunfurt Pact sentiment exists within its population, due to their much larger neighbour to the north being Rapusia.
+**Fillerant** — A small, heavily industrialised, mountainous monarchy in central Columba that is something like a matriarchy; one of two on Nova Terra (the other being Aarbrau). Women can and do occupy major roles in the government, and are generally held in high esteem. The Chamber of Elders, a consultative assembly of the matriarchs of the leading families of the nation, is consulted by lawmakers before laws are enacted. This is a cultural thing, enshrined primarily by convention. However, gender equality is notably advanced in Fillerant, enough that it has been cited by the Community of Nations, despite its relative geopolitical isolation. Primarily exports chemicals, machinery, some consumer goods and textiles. Very hard to invade due to the mountains, which is in part how it has managed to survive for so long even when it wasn’t a united country. Significant pro-Taunfurt Pact sentiment exists within its population, due to their much larger neighbour to the north being Rapusia.
 
 **Reddit Island** — Countercultural “democracy” dominated by groupthink, performativity and censorship. The Council of Moderators dominates public life. Currency: karma point (scrip; state supplements based on saying things that are publicly approved; the right things in other words). Primary income: war bonds with perpetually extended maturities bought by foreign sympathisers. Funds foreign "liberation" movements while barely functioning domestically. Also has some of the most liberal immigration and customs laws on Nova Terra to support its gigantic tourism industry (with gigantic resorts; Reddit Island has very nice beaches), with a largely service-based and post-agricultural economy, with an essentially improvised and artisanal industrial sector. Much of the population lives in shantytowns where surveillance is weaker, so regime politics are less pervasive and actual creativity can exist. Contains an Antiwork faction, which believes work is unnecessary and exploitative as an institution — the International has collectively resolved never to discuss this, because it makes socialism look really, really bad (and they aren’t even representative of socialism anyway). Like Twittertopia, built upon settler-colonialism of former Skiyian territory by dissidents fleeing from other regions of the world and seizing power in the aftermath of the fall of Skiyia in 1875. Rivals with Twittertopia. Third International observer. 
 
@@ -448,7 +448,7 @@ Culture: A very diverse country with at least 12 separate ethnic groups. Even if
 
 **Dupeland** — Impoverished theocratic pirate monarchy, formerly colonised by Skiyia. Receives significant CoN food aid feeding millions annually due to the devastation of the Great War and structural poverty. GDP per capita C167, population 23 million. Member of the Taunfurt Pact. Ruled by an Emperor, who’s actually fairly popular as the embodiment of the Dupelander people and a reasonably just and pragmatic ruler. Notable portions of the population have taken to piracy in the Timernondese Ocean in order to secure a living on the black market. Primarily an agrarian nation, though limited industrial development has taken place, with the enthusiastic funding of Rapusian megacorporations and the Rapusian state licensing Rapusian military equipment, even while it was internationally isolated in the aftermath of the Great War.
 
-**Suleymania** – A north Libran emirate (itself an elective monarchy made of many tribes) situated to the south of Cavalistan and north of Qurkia. However, Cavalistan and Suleymania are separated by the Khalian Desert (the largest desert on Nova Terra that isn’t Terra Antipolaris), so their borders, despite being clearly denoted on maps (on most maps), aren’t that clear on the ground. Theocratic to some extent, and home to the Academy of Suleymania, the premier academy of Southern Tankist thought. Ruled by a relatively benevolent emir, Suleyman V, who prefers to delegate rule to his ministers and focus on artistic and theological pursuits due to his inexperience in matters of ruling.
+**Suleymania** — A north Libran emirate (itself an elective monarchy made of many tribes) situated to the south of Cavalistan and north of Qurkia. However, Cavalistan and Suleymania are separated by the Khalian Desert (the largest desert on Nova Terra that isn’t Terra Antipolaris), so their borders, despite being clearly denoted on maps (on most maps), aren’t that clear on the ground. Theocratic to some extent, and home to the Academy of Suleymania, the premier academy of Southern Tankist thought. Ruled by a relatively benevolent emir, Suleyman V, who prefers to delegate rule to his ministers and focus on artistic and theological pursuits due to his inexperience in matters of ruling.
 
 **Kirbistan** — A small South Hydran state that was once a Skiyian colony before gaining independence in the 1820s; once ruled by a long succession of military dictators, caudillos and juntas before Tankian intervention in 1903 established something vaguely resembling a democracy. Neutral, but sympathetic to the FNA, but still pursues its own developmentalist and independent path under President Enrique Wilcox of the People’s Party (a technocratic, dirigiste and centrist party). Beginning a period of surprisingly rapid growth, which observers have taken note of, along with the dominant nature of the People’s Party.
 
@@ -466,13 +466,13 @@ Culture: A very diverse country with at least 12 separate ethnic groups. Even if
 
 **Maralgorange** — Corporate-dominated city-state on the northern coast of Twittertopia; founded by a Tankian businessman in the 1880s. Dense, heavily neon-lit, with notable slums beyond the downtown, filled to the brim with both commerce and crime. Governed by an elected mayor, but heavily influenced by corporations and gangs in a very transactional order. Mercenaries have a presence here. The Gendarmerie (militarized police; underfunded and overworked) are wildly inconsistent in reliability and, being more inclined to violence in the outer districts. Officially neutral, but somewhat pro-Rapusia. 
 
-**Rafaristan** – A semi-constitutional monarchy located on the west coast of Libra. Once a small protectorate of the Qurkian Empire, it has since absorbed a massive desertic hinterland. Pro-FNA, with a developmentalist and socially progressive monarchy installed by a coup d’etat against a populist, but unpopular and corrupt pro-Taunfurt Pact prime minister, Mohammed Iravi (who was later kidnapped by the UTP and executed for charges of drug trafficking) in 1953. Massively anti-Qurkian due to historical oppression, and currently a Skiyian ally.
+**Rafaristan** — A semi-constitutional monarchy located on the west coast of Libra. Once a small protectorate of the Qurkian Empire, it has since absorbed a massive desertic hinterland. Pro-FNA, with a developmentalist and socially progressive monarchy installed by a coup d’etat against a populist, but unpopular and corrupt pro-Taunfurt Pact prime minister, Mohammed Iravi (who was later kidnapped by the UTP and executed for charges of drug trafficking) in 1953. Massively anti-Qurkian due to historical oppression, and currently a Skiyian ally.
 
-**Erama** – A socialist republic established in 1956 by a Traroria-sponsored military coup. Has adopted a more moderate version of Maximalism that actually resembles a sort of socially-conservative agrarian socialism. Border skirmishes with Suleymania and Jesusland are very commonplace, and much of the population is still about as poor as they were under the monarchy. Major oil reserves have been found recently, and uranium has also been found and is the country’s principal export along with certain agricultural products.
+**Erama** — A socialist republic established in 1956 by a Traroria-sponsored military coup. Has adopted a more moderate version of Maximalism that actually resembles a sort of socially-conservative agrarian socialism. Border skirmishes with Suleymania and Jesusland are very commonplace, and much of the population is still about as poor as they were under the monarchy. Major oil reserves have been found recently, and uranium has also been found and is the country’s principal export along with certain agricultural products.
 
-**Tumblria** – Socially liberal island nation in the Hydran Sea region. Once home to a vibrant, chaotic, almost anarchic counterculture radicalized by the Great War until about 1949, with a ban on pornography leading to an economic exodus of artists who did such things to places like Twittertopia. However, since then, a recovery has begun (briefly interrupted by a military coup in 1954, which the CoN intervened against under Great Council Resolution 158), and the ban on pornography itself has been relaxed. Unlike Reddit Island and Twittertopia, the original inhabitants of the region were accepted into society, even if it caused strife later on. However, censorship, populism and corruption remain pervasive.
+**Tumblria** — Socially liberal island nation in the Hydran Sea region. Once home to a vibrant, chaotic, almost anarchic counterculture radicalized by the Great War until about 1949, with a ban on pornography leading to an economic exodus of artists who did such things to places like Twittertopia. However, since then, a recovery has begun (briefly interrupted by a military coup in 1954, which the CoN intervened against under Great Council Resolution 158), and the ban on pornography itself has been relaxed. Unlike Reddit Island and Twittertopia, the original inhabitants of the region were accepted into society, even if it caused strife later on. However, censorship, populism and corruption remain pervasive.
 
-**Elitamji** – A former Rapusian protectorate (though still a Rapusian ally) that retains an indigenous monarchy (a heavily stratified one, where one ethnicity is empowered at the expense of the other fiefs of other ethnic groups). Most notable for the fact that it’s surrounded by a series of three heavily fortified concentric walls. A significant portion of the population lives in medieval-ish squalor in the territories of the outer two walls, while the inner wall is relatively rich. Even in its region, it has historically been a pariah for its collaboration with Rapusia. Relatively insular even for the standards of a Nova Terra country; with any Rapusian alignment being diplomatic rather than economic. However, it does export raw materials and precious metals, along with horticultural products.
+**Elitamji** — A former Rapusian protectorate (though still a Rapusian ally) that retains an indigenous monarchy (a heavily stratified one, where one ethnicity is empowered at the expense of the other fiefs of other ethnic groups). Most notable for the fact that it’s surrounded by a series of three heavily fortified concentric walls. A significant portion of the population lives in medieval-ish squalor in the territories of the outer two walls, while the inner wall is relatively rich. Even in its region, it has historically been a pariah for its collaboration with Rapusia. Relatively insular even for the standards of a Nova Terra country; with any Rapusian alignment being diplomatic rather than economic. However, it does export raw materials and precious metals, along with horticultural products.
 
 **Bazookia (or Bazoukia)** — A small federation of 180 communes with no central executive and economic distribution. Currently doing reasonably well for Nova Terra standards, posting solid statistics of economic growth and its strategic location off the coast of Konnelia and to the north of Horonyia permitting the flow of a large amount of maritime trade to this general region. Gained independence from Rapusia in the Great War with the support of Canausbel. Also has surprisingly advanced anti-tank technology obtained from the UTP and Canausbel, and their traditional symbol, the Basouka, suspiciously resembles a recoilless anti-tank rocket launcher in silhouette and pointed upwards. Despite the resemblance, it is one of the most ancient symbols on Nova Terra, with its first appearances being found on jars dating back 2100 years; long before any anti-tank technology as we know it was invented on Nova Terra. Becoming increasingly unstable due to the possession of weapons by significant portions of the population affiliated with the resistance during the Great War, meaning that when they have disputes... they can get *violent.* And they have gotten violent quite a lot, to the point that most Bazookians would probably say that a civil war will happen soon. 
 
@@ -806,28 +806,28 @@ D - DEFAULT
 Anything including and above BBB is considered investment grade.
 
 **Notable currencies of Nova Terra:**
-– Tankian crown 
-– Rapusian reichsmark 
-– Commonwealth pound sterling (£sd; not decimal) 
-– Dai-Kokuese yen 
-– Canausbelite lira 
-– Pusheenian hryvnia 
-– Diplomatian pound (“starbuck”) 
-– Ishanian yuan 
-– Auxurian denarius 
-– Horonyian rupee 
-– Qurkian rial 
-– Kannanese koruna 
-– Kingersean florin 
-– Monte Biancan lira 
-– New Skiyian peseta 
-– Skiyian pound 
-– Western Quaristanicavali peso 
-– Pangarapese dollar 
-– Central Lander guilder 
+- Tankian crown 
+- Rapusian reichsmark 
+- Commonwealth pound sterling (£sd; not decimal) 
+- Dai-Kokuese yen 
+- Canausbelite lira 
+- Pusheenian hryvnia 
+- Diplomatian pound (“starbuck”) 
+- Ishanian yuan 
+- Auxurian denarius 
+- Horonyian rupee 
+- Qurkian rial 
+- Kannanese koruna 
+- Kingersean florin 
+- Monte Biancan lira 
+- New Skiyian peseta 
+- Skiyian pound 
+- Western Quaristanicavali peso 
+- Pangarapese dollar 
+- Central Lander guilder 
 - Timernondese dinar 
-– Twittertopian dollar 
-– Reddit Islander karma point 
+- Twittertopian dollar 
+- Reddit Islander karma point 
 
 ---
 
@@ -841,15 +841,15 @@ Most countries on Nova Terra generally use bolt-action or semi-automatic rifles 
 **Living Tank doctrine:** Living Tanks in their heyday (comprising much of world history before the Great War) were tactically used as a mix of shock cavalry and mobile command strongpoints (when ridden directly by their handlers). They were frequently ridden desant by infantry for extra mobility, guided by their handlers to go where the combat was most apparent. As well, commanders and standard bearers would sometimes ride on them desant, and with the support of the handler, would help guide their regiments in the right direction. They could also function as fire support, and given the right circumstances, could charge en masse like cavalry at full speed, cannons blasting, although this would be a rare event; immortalized in the annals of war. Handlers themselves are a respected (if not common) specialisation in many Nova Terran militaries, and are caretakers, veterinarians and tactical partners all at once; adapting to their assigned Tank’s habits and needs while achieving tactical objectives with the support of the Tank. The Tank can act independently and adapt to accomplish these goals set out by the handler via commands; though it is ideal that they stay close by to monitor and support the Tank, and also keep it on task. The assignments are themselves decided by bureaucrats who try to match characteristics between prospective handlers and Tanks, who typically go through a brief bonding period where compatibility is evaluated for the final decision. Once, a Tankian Army handler spent 7 years before he was finally assigned a Tank!
 
 **Nuclear arsenal rankings (based on actual amount of warheads, known only to the reader):**  
-– UTP: 21,000  
-– Rapusia: 5,500 (but estimated at about 12-14,000 in-universe)  
-– Canausbel: 3,000 (but estimated at about 8-9,000 in-universe)  
-– Commonwealth: 1,600 (external estimates place it around 2,000)  
-– Pusheen Country: ~50  
-– Diplomatians: 400  
-– Qurkia: ~80  
-– Dai-Koku: ~60  
-– Timernond: 6  
+- UTP: 21,000  
+- Rapusia: 5,500 (but estimated at about 12-14,000 in-universe)  
+- Canausbel: 3,000 (but estimated at about 8-9,000 in-universe)  
+- Commonwealth: 1,600 (external estimates place it around 2,000)  
+- Pusheen Country: ~50  
+- Diplomatians: 400  
+- Qurkia: ~80  
+- Dai-Koku: ~60  
+- Timernond: 6  
 
 **Notable doctrines:**
 - UTP: The UTP's military is built around the doctrine of Full-Spectrum Superiority, that extends the battlespace to include industrial, political and morale factors. Aims for total superiority in these areas, along with overwhelming dominance in the battlefield itself, in order to achieve strategic goals. NCO initiative on a tactical level, which doesn’t necessarily translate to a grand-strategic level. Heavy usage of artillery, missiles, and other, precise long-ranged weaponry in order to reduce casualties on the Tankian end, destroy enemy morale and weaken the enemy’s resistance. Air superiority is a crucial component of this.
@@ -862,11 +862,11 @@ Most countries on Nova Terra generally use bolt-action or semi-automatic rifles 
 **Note on the conduct of war on Nova Terra:** Nova Terra *does* have an international convention on the conduct of war; the Lundburgh Conventions, I through IV, superseding previous national laws of the signatories on the conduct of their respective armed forces (such as the Military Conduct Acts of 1714 and 1890 of the Commonwealth); that govern the conduct of war: namely, it prohibits the targeting of civilians, the targeting of medics or medical facilities, the targeting of wounded or shipwrecked people and the use of torture for any purpose. Anything not covered here is technically legal, though there exist nuclear non-proliferation treaties. Some states, like Timernond, openly possess (6) nuclear weapons while not being part of the treaty, while Qurkia and Dai-Koku neither confirm or deny the existence of their nuclear arsenals. As well, many countries on Nova Terra, including the Great Powers, maintain (in secret or openly) maintain stockpiles of chemical and biological weapons; like the Commonwealth’s stockpile of Defense Weapons (which include horrific nerve agents like C4H10FO2P). However, the actual strategic use thereof greatly stigmatized, and if anyone actually does use them, they would quite possibly be formally condemned by almost everyone and sanctioned so hard their descendants will still be impoverished in a century; if not just bombed and invaded by a Great Power or two. Nova Terrans themselves say that merely making a law won’t keep people from using horrific things in war; people violated the Lundburgh Conventions during the Great War anyway, despite their existence; and that it has to be ingrained in society to keep these things from happening again. Hence, why the Lundburgh Conventions haven’t been updated since their adoption in 1907.
 
 **Intelligence agencies:** Nova Terra’s nations have intelligence agencies for collecting information about foreign nations and people in general. They form the heart of their respective national intelligence communities, and many nations possess quite a lot of them for specific purposes (e.g. the various military intelligence organisations, which are generally not listed because it would take very long to do so). The important ones are:
-– United Tank Provinces: Office of Strategic Intelligence Services (OSIS; a civilian office in charge of foreign intelligence as a whole); Gendarmerie (a paramilitary law enforcement organisation that also handles domestic intelligence and limited foreign intelligence when it pertains to domestic security)
-– Rapusia: Federal Intelligence Service (foreign intelligence, civilian; Abwehr (general military intelligence organisation); Kagepo (civilian secret police, domestic operations)
-– Canausbel: Ministry of State Security (civilian intelligence foreign and domestic)
-– Commonwealth: Secret Intelligence Service (all civilian intelligence operations, Section 5 being domestic intelligence and 6 foreign)
-– Pusheen Country: Security Service (civilian service in charge of domestic surveillance); Section 9 (military service in charge of foreign intelligence)
+- United Tank Provinces: Office of Strategic Intelligence Services (OSIS; a civilian office in charge of foreign intelligence as a whole); Gendarmerie (a paramilitary law enforcement organisation that also handles domestic intelligence and limited foreign intelligence when it pertains to domestic security)
+- Rapusia: Federal Intelligence Service (foreign intelligence, civilian; Abwehr (general military intelligence organisation); Kagepo (civilian secret police, domestic operations)
+- Canausbel: Ministry of State Security (civilian intelligence foreign and domestic)
+- Commonwealth: Secret Intelligence Service (all civilian intelligence operations, Section 5 being domestic intelligence and 6 foreign)
+- Pusheen Country: Security Service (civilian service in charge of domestic surveillance); Section 9 (military service in charge of foreign intelligence)
 
 **Naval prefixes:** Nova Terra has many naval prefixes used to identify ships of various navies. Here are some of them:
 - MdPU: Marine des Provinces-Unies (United Provinces Navy)  
@@ -879,18 +879,18 @@ Most countries on Nova Terra generally use bolt-action or semi-automatic rifles 
 **Military peculiarities:** Rapusia invented the goose-step in the mid-18th century, and it has since spread to places like Ishanis and Diplomatians. It is generally associated with strict discipline, in contrast to the relatively relaxed Tankian-Commonwealth step. As well, it is customary for a warship heading into battle (or returning from deployment) to fly a battle ensign, a comically large ensign once used to identify the nationality of a ship in the chaos of naval warfare. Often, if the intention was to keep fighting until the ship went down, it would be nailed to the mast that it was hoisted on, and if the ship surrendered, it would be lowered. Many Nova Terran militaries maintain ornate ceremonial uniforms based on the uniforms of the 18th-19th centuries, with such things as epaulettes and bicornes that would otherwise never be used. Some even base them off their own traditional costumes… Nova Terra also has numerous military marches, with and without lyrics (often, these lyrics are unofficial and decidedly puerile).
 
 **Assorted battle cries of Nova Terra:**
-— United Tank Provinces: Vive la Tankie! (Long live Tankia); Crush them! (Écrasez-les!)  
-— Rapusia: For the Emperor! (Für den Kaiser!); God with Us! (Gott mit uns!)  
-— Canausbel: Alala!; Ura!; Glory to Canausbel! (Slava Kanausbel’!); They shall not pass! (Oni ne proydut!)  
-— Commonwealth: For King/Queen and Country!; Huzzah! (pronounced more like “HOO-zah!” in practice); For our freedom and yours!; Clear the way! (Faugh a Ballagh! Used by Irish units); Wind! (Aera! Used by Atlantean units)  
-— Pusheen Country: Glory to the heroes! (Heroiam Slava!); They shall not pass! (Vony ne proydut!); God with Us! (Z namy boh!)  
-— Dai-Koku: May the Emperor live for ten-thousand years! (Tennoheika Banzai!, often shortened to Banzai in practice); Do your best! (Ganbatte!)  
-— Diplomatians: For the Gods! (For tham godum!); Peanut butter! (Pistolbutere!)  
-— Ishanis: Killers! (Sha shou!)  
-— Auxur: Auxur [will be] victorious! (Auxur vitrix!); Death! (Mors!)  
-— Monte Bianco: The Mountain quakes! (Il Monte trema!)  
-— Skiyia: Onwards Skiyia! (Arriba Scia!); Libertad! (Freedom!)  
-— Konnelia: Cut them down! (Hakka paalle!); Let’s be free, nothing else matters! (Ollaan vapaita; mikään muu ei merkitse mitään!)  
+- United Tank Provinces: Vive la Tankie! (Long live Tankia); Crush them! (Écrasez-les!)  
+- Rapusia: For the Emperor! (Für den Kaiser!); God with Us! (Gott mit uns!)  
+- Canausbel: Alala!; Ura!; Glory to Canausbel! (Slava Kanausbel’!); They shall not pass! (Oni ne proydut!)  
+-  Commonwealth: For King/Queen and Country!; Huzzah! (pronounced more like “HOO-zah!” in practice); For our freedom and yours!; Clear the way! (Faugh a Ballagh! Used by Irish units); Wind! (Aera! Used by Atlantean units)  
+- Pusheen Country: Glory to the heroes! (Heroiam Slava!); They shall not pass! (Vony ne proydut!); God with Us! (Z namy boh!)  
+- Dai-Koku: May the Emperor live for ten-thousand years! (Tennoheika Banzai!, often shortened to Banzai in practice); Do your best! (Ganbatte!)  
+- Diplomatians: For the Gods! (For tham godum!); Peanut butter! (Pistolbutere!)  
+- Ishanis: Killers! (Sha shou!)  
+- Auxur: Auxur (will be) victorious! (Auxur vitrix!); Death! (Mors!)  
+- Monte Bianco: The Mountain quakes! (Il Monte trema!)  
+- Skiyia: Onwards Skiyia! (Arriba Scia!); Libertad! (Freedom!)  
+- Konnelia: Cut them down! (Hakka paalle!); Let’s be free, nothing else matters! (Ollaan vapaita; mikään muu ei merkitse mitään!)  
 
 **Principal colours of military uniforms (as stereotyped):** 
 United Tank Provinces; blues (horizon blue and navy) and olive green
@@ -909,15 +909,15 @@ Commonwealth; grey (formerly red)
 **A follow-up on systemic xenophobia:** Universal and a systemic issue (metawise), distributed in degrees across the world. Using the Commonwealth as a baseline; UTP and Diplomatians are somewhat less; Canausbel is roughly equal; Rapusia is somewhat higher and Pangarap is much higher. Foreigners and non-citizens are explicitly legally treated as having less rights than citizens across the vast majority of Nova Terra’s countries, and are often surveilled or segregated into specific areas when in other countries, and deportation is frequently possible for offenses that would merit a fine for citizens. In the books of the Commonwealth, a typical example, a conviction for disorderly conduct and many other crimes can lead to deportation if the convicted is a non-citizen. Economic migrants and refugees (especially refugees), however, are in general more tolerated than expatriates; though this is relative to a really low baseline that still discriminates against them. The UTP is relatively progressive in this regard; non-citizens are allowed to travel to most areas of the UTP, and naturalisation is actually a feasible idea rather than a pipe dream. Trade unions are notably opposed to immigration in most Nova Terran nations, seeing it as a means for employers to depress wages and lay off workers; while business often ends up relatively supportive of immigration (if only because it lets them obtain labour on the cheap).
 
 **Slurs:** Perhaps unsurprisingly, Nova Terrans have many degrading ways to refer to one another based on nationality and physical appearance. Here are some of them:
-– Commie: People from the Commonwealth of Britannia-Ireland. A diminutive version of “Commonwealth”, that has since been reclaimed by people from the Commonwealth to some extent.
-– Schnit: Person from Rapusia; derived from schnitzel.
-– Ishan: An extremely offensive term for an Ishanian (often misused to describe anyone vaguely Antarean-looking; which makes it even more offensive)
-– Shanman: An Ishanian, again.
-– Pushins: Pusheenians.
-– Auxies: Auxurians (often jocular).
-– Soots: Black people.
-– Ghosts: White people (where they aren’t nearly as common).
-– Tankie: A Tankian (often jocular).
+- Commie: People from the Commonwealth of Britannia-Ireland. A diminutive version of “Commonwealth”, that has since been reclaimed by people from the Commonwealth to some extent.
+- Schnit: Person from Rapusia; derived from schnitzel.
+- Ishan: An extremely offensive term for an Ishanian (often misused to describe anyone vaguely Antarean-looking; which makes it even more offensive)
+- Shanman: An Ishanian, again.
+- Pushins: Pusheenians.
+- Auxies: Auxurians (often jocular).
+- Soots: Black people.
+- Ghosts: White people (where they aren’t nearly as common).
+- Tankie: A Tankian (often jocular).
 — Phal: A man in Fillerant. Unfortunately, many segments of the population of Fillerant see no issue with its use.
 
 **A note on militarism:** Militarism and military-industrial complexes are common things on Nova Terra. Countries regularly spend 6-7% of their GDP on their military (the UTP is actually viewed as a slightly undersized military power because they only spend about 5% of their GDP on it), and this militarism is often viewed very highly as a necessity to deter enemy aggression and potentially a Second Great War (in view of the fact that the Seven-Nation Army only unconditionally surrendered after the use of terrifying force). However, pacifist movements exist, and also have grown to be surprisingly popular in the richer countries of the world in the generation which has been born after the Great War (Generation Alpha; the first generation to actually be given a name rather than just assigned one ad hoc based on when they were born).
@@ -925,23 +925,23 @@ Commonwealth; grey (formerly red)
 **National rivalries:** National rivalries, both serious and not-so-serious, are a fact of life on Nova Terra. Although some were forged during the Great War (like the Dai-Koku-Diplomatians rivalry), many came from before that, like the Commonwealth-Rapusia rivalry (which has been ongoing since the mid-17th century) or the Canausbel-Rapusia rivalry (ongoing since the late 13th century). Even the (relatively) cosmopolitan UTP generally looks down on Columba (and Rapusia in particular) even while letting Columban immigrants in. Sometimes, it doesn’t even need to be between nation-states, because different ethnic groups can hate each other even if one (or neither) is a nation-state!   
 
 Some of the most notable examples, in no particular order, include:  
-– UTP vs. Rapusia  
-– Rapusia vs. the Commonwealth  
-– Rapusia vs. Canausbel  
-– Pusheen Country vs. Kannan  
-– Dai-Koku vs. Ishanis  
-– Timernond vs. Ishanis  
-– Diplomatians vs. Horonyia  
-– Twittertopia vs. Reddit Island  
-– Western Quaristanicaval vs. Pangarap  
-– Dai-Koku vs. Diplomatians  
-– Rapusia vs. Pusheen Country  
-– Auxur vs. Atlantis (when Atlantis wasn’t a Commonwealth colony, at least…)  
-– Skiyia vs. Commonwealth (has died down a lot from its peak in the Early Modern period)  
-– Skiyia vs. Qurkia (in contrast, going very strong)  
-– Monte Bianco vs. Skiyia  
-– Cavalistan vs. Kekistan  
-– Qurkia vs. Cavalistan  
+- UTP vs. Rapusia  
+- Rapusia vs. the Commonwealth  
+- Rapusia vs. Canausbel  
+- Pusheen Country vs. Kannan  
+- Dai-Koku vs. Ishanis  
+- Timernond vs. Ishanis  
+- Diplomatians vs. Horonyia  
+- Twittertopia vs. Reddit Island  
+- Western Quaristanicaval vs. Pangarap  
+- Dai-Koku vs. Diplomatians  
+- Rapusia vs. Pusheen Country  
+- Auxur vs. Atlantis (when Atlantis wasn’t a Commonwealth colony, at least…)  
+- Skiyia vs. Commonwealth (has died down a lot from its peak in the Early Modern period)  
+- Skiyia vs. Qurkia (in contrast, going very strong)  
+- Monte Bianco vs. Skiyia  
+- Cavalistan vs. Kekistan  
+- Qurkia vs. Cavalistan  
 
 **Legal systems:** Most countries on Nova Terra follow varying mixes of Auxurian-based civil law (where law and rights are codified in broadly applicable documents) with customary legal systems throughout. It’s also often associated with the inquisitorial system, where courts directly investigate. The Commonwealth and its cultural sphere is unique because it has adopted a different legal system from everyone else; a system where legal precedents form the great majority of the country’s law, and rights are “discovered” through empirical reasoning rather than written down in one convenient document (dubbed “common law”, or simply “Commonwealth customary law”). The legal profession also varies depending on the system. Auxurian legal systems have a wide variety of jurists that study the specific legal codes of the country they practice in, like notaries. In comparison, the Commonwealth has major types of jurist: attorneys (which represent the client in courts) and solicitors (which handle things outside the court; these are much more common). The Rapusian model is based on the Auxurian model, but introduces a separate commercial code; and has proven to be influential in its own right in places like Ishanis, Monte Bianco and Dai-Koku. Canausbelite law is a mixture of Auxurian law, Canausbelite customary law and socialist law, and has spread where socialism has spread (just adapted to local circumstances).
 
@@ -958,23 +958,23 @@ Some of the most notable examples, in no particular order, include:
 **Literature:** Nova Terra has a long tradition of literature. Long before the Great War, epic poems and plays were written, like the the Eight Ishanian Classics (including the Romance of the Warring Kingdoms and the Dream of the Red Chamber) and the works of Al Smith (the greatest playwright of his age). However, unlike our Earth, it has remained relatively common to serialise novels chapter-by-chapter in literary magazines, like modern radio serials. Nova Terra also has a thriving pulp fiction and comic market; sensational and lurid tales of horror and romance (and sometimes genuinely brilliant writing!), often consigned to relative obscurity unless their authors break out of this niche. Science fiction and fantasy (influenced by Futurism and modernism) have made a resurgence during the Great War and beyond as people increasingly seek to find refuge in fiction. 
 Some of the greatest novels in Nova Terran history include: 
 — The Romance of the Warring Kingdoms (1450s): An epic tale of the unification of Ishanis in the first century BNE between the three states of Wei, Lin and Shan. Yes, the gap between the events described and the writing of this is very much real. It was primarily intended as a guide to morality for Ishanian emperors.
-– Don Futilo (1601): The first modern novel; written by Almirante Cervera, which tells the story of Don Futilo, a Skiyian nobleman attempting to futilely imitate a false version of a noble, chivalrous past. Some say that it is an allegory for a struggle against conformism. Others say (with much greater accuracy) that it is a warning against glorifying the past to an excessive degree.
-– 
-– 
-– Arrogance & Audacity (1813): A novel by Commonwealth novelist Anne Mordaunt, about a girl known for matchmaking finding love in the places she didn’t expect.
-– Far West (1831): An extremely long epic novel about the Tankian frontier by Antoine Rochon. Follows the story of two families (one good, one evil) and their conflicts throughout the decades, permeated throughout with an idealistic commentary on Tankian imperialism (and that maybe the locals do have a point, even if they have weird beliefs and try to raid the two families’ homesteads).
+- Don Futilo (1601): The first modern novel; written by Almirante Cervera, which tells the story of Don Futilo, a Skiyian nobleman attempting to futilely imitate a false version of a noble, chivalrous past. Some say that it is an allegory for a struggle against conformism. Others say (with much greater accuracy) that it is a warning against glorifying the past to an excessive degree.
+- 
+- 
+- Arrogance & Audacity (1813): A novel by Commonwealth novelist Anne Mordaunt, about a girl known for matchmaking finding love in the places she didn’t expect.
+- Far West (1831): An extremely long epic novel about the Tankian frontier by Antoine Rochon. Follows the story of two families (one good, one evil) and their conflicts throughout the decades, permeated throughout with an idealistic commentary on Tankian imperialism (and that maybe the locals do have a point, even if they have weird beliefs and try to raid the two families’ homesteads).
 — A Tale of Two Countries (1838): Louis Morton’s most famous work, a satire of the First Canausbelite Revolution from a liberal perspective; showing off the perspectives of two closely tied families: one from Lundburgh and one from Medyeva.
-– Low Expectations (1841): Also written by the legendary Commonwealth novelist Louis Morton, it is a satire of aristocratic life from the perspective of the hapless commoner adopted child of a nobleman, and the comic shenanigans that follow (and eventually, how that adopted commoner child finds love).
-– 
-– 
-– 
-– 
-– 
-– 
-– 
-– The Thomas Mercure Mysteries (1890-1916): A series of mystery novels by Marcel Marchand of the UTP about a great detective (written from the POV of his assistant) and the various cases he has to face throughout his life.
-– Tankia (1927): A novel by Pierre Poincaré that attempts to capture “the spirit of Tankia” inside one great novel in six volumes; following a man’s journey across the country in search of work, and maybe finding out that there’s something more important than reaching the end.
-– Tension (1931): Written during the Intrawar period in the Commonwealth, John Parker uses a stream-of-consciousness, fragmented style to communicate the feeling of great unease and anxiety permeating life in the Commonwealth at the time.
+- Low Expectations (1841): Also written by the legendary Commonwealth novelist Louis Morton, it is a satire of aristocratic life from the perspective of the hapless commoner adopted child of a nobleman, and the comic shenanigans that follow (and eventually, how that adopted commoner child finds love).
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- The Thomas Mercure Mysteries (1890-1916): A series of mystery novels by Marcel Marchand of the UTP about a great detective (written from the POV of his assistant) and the various cases he has to face throughout his life.
+- Tankia (1927): A novel by Pierre Poincaré that attempts to capture “the spirit of Tankia” inside one great novel in six volumes; following a man’s journey across the country in search of work, and maybe finding out that there’s something more important than reaching the end.
+- Tension (1931): Written during the Intrawar period in the Commonwealth, John Parker uses a stream-of-consciousness, fragmented style to communicate the feeling of great unease and anxiety permeating life in the Commonwealth at the time.
 — The Hole-man (1935): A children’s novel by Henry Rolf Ronald Davis (a Contanan immigrant to the Commonwealth; thus a patriotic Orthodox Tankist Rapusian-Commonwealthman), about a Hole-man’s journey There and Back Again. Surprisingly good, even for adult audiences, due to Davis’ knowledge of the many myths of Nova Terra.
 — Memories of the Great War (1949): A semi-autobiographical novel by Karl Gustav Schaefer, describing the experience of futility and despair of a typical Rapusian conscript towards the final years of the Great War. Some critics saw the novel as excessively bleak. Other Rapusian veterans saw it as perfectly accurate.
 And some of the most famous novelists on Nova Terra include:
@@ -998,46 +998,46 @@ And some of the most famous novelists on Nova Terra include:
 - *AIF World Cup* — football (soccer) world championship, dominated by Columba and Antares. The first edition was held in 1950, but due to football’s widespread popularity, it is already one of the biggest sports events in Nova Terra. The latest edition, held in 1962, had Skiyia win the Cup.
 - *Tankian Gridiron League* — All-Stars Game championship (UTP); the Grey Bowl is the Canausbelite equivalent (and the older one, since Canausbel invented the sport in the first place).
 - *St-Étienne 500* — A stock car race held at the start of the Hydran Motorsport Association’s season; a quintessentially Tankian sport known for crashes that miraculously leave everyone alive.
-– *Type 1* – The ultimate league for open-wheel, single-seat type racing cars. Possesses two competitions: the Drivers’ and the Constructors’.
+- *Type 1* — The ultimate league for open-wheel, single-seat type racing cars. Possesses two competitions: the Drivers’ and the Constructors’.
 - *The Grudge* — A Commonwealth-Diplomatians Test cricket series held annually from 1898.
 - *Boreal Cup* — club ice hockey (not on a national level, that would be the International Games); major nations include the UTP, Kingerse, Commonwealth, North Contana, Pusheen Country, Kannan and WQ.
-– *Lorician sports* – Sports involving the use of Living Tanks, from dressage to racing. There are many events for these (primarily catering to an aristocratic audience) like the Royal Epsom, with the Tanks used there having extremely long pedigrees.
+- *Lorician sports* — Sports involving the use of Living Tanks, from dressage to racing. There are many events for these (primarily catering to an aristocratic audience) like the Royal Epsom, with the Tanks used there having extremely long pedigrees.
 
 **Tourism:** Tourism on Nova Terra has become increasingly accessible over the span of the post-Great War years, and especially the 1960s. However, international tourism is still principally seen as an upper-middle class to upper-class activity due to the various bureaucratic hurdles you have to overcome to even get a visa in the first place (including the possibility that the application is rejected outright for no reason). Some notable tourist destinations include the beaches of south Skiyia and Reddit Island, the resort towns of western Canausbel, the ski resorts of Monte Bianco, Skiyia, Fillerant and Rapusia, and the UTP’s… everything, really. 
 
 **Education:** Education on Nova Terra is frequently reflective of the priorities of the nation that funds it (since most Nova Terran nations have public schools, in the sense of publicly-funded educational facilities). Since the real interesting differences start after elementary school (after all, you can’t really incorporate indoctrination into addition; though trust me when I say there are great inequalities in educational quality across the world), I will skip there. In most Nova Terran societies, secondary education also includes some ideological education, though in democracies it remains relatively subtle. For instance, in Rapusia, the civics course teaches the political system of the Empire and demonstrates it to be a normal system that functions rather than the stereotype of it being a feudal relic. Boarding schools also exist, though these are rare and generally confined to sufficiently large countries or countries descended from the Commonwealth and its own system of government schools, “public schools” (that still have tuition; just open to all who can afford it) and private schools (which have entrance exams).  
 In Nova Terra, tertiary institutions exist as well, like colleges and universities. Research universities do very much exist, and periodically cooperate with foreign universities on certain important projects (like the University of Lozar’s collaboration with the University of Wellsborough on a particle accelerator; the former is in the UTP and the latter in the Commonwealth). Universities tend to be hotbeds of radical political thought, and of course partying, drinking and all of that. Still, universities are perfectly willing to throw you out if your grades slip (or your grades just aren’t that good to begin with), so be careful!  
 Here are some of Nova Terra’s top universities:  
-– La Sorbonne (the UTP’s top state-funded university)  
-– Lozar University (UTP; a member of the Maple League of private research universities in the UTP)  
-– Ambroise University (UTP; another Maple League university)  
-– St-Charles University (UTP; yet another Maple League university)
-– University of Sierrana in Los Tancas (UTP)  
-– Wellsborough University (Commonwealth)  
-– Marston University (Commonwealth)  
-– Dubhlinh University (Commonwealth)
-– Victoria University (Commonwealth, publicly funded)  
-– University of Brandenstadt (Rapusia)  
-– Saxenburg Polytechnical Institute (Rapusia)  
-– Altenhaus Polytechnical Institute (Rapusia)
-– Medyeva Technical University (Canausbel)  
-– Losinyygrad University (Canausbel)
-– Vostok University (Canausbel)
-– Wakoku Imperial University (Dai-Koku)  
-– Tyle University (Kingerse)  
-– University of Monte Bianco (Monte Bianco; the oldest university on Nova Terra, so old it still sorts its students into nations)
-– The Great Seminary (Monte Bianco; actually a decent place to go for a secular education)
+- La Sorbonne (the UTP’s top state-funded university)  
+- Lozar University (UTP; a member of the Maple League of private research universities in the UTP)  
+- Ambroise University (UTP; another Maple League university)  
+- St-Charles University (UTP; yet another Maple League university)
+- University of Sierrana in Los Tancas (UTP)  
+- Wellsborough University (Commonwealth)  
+- Marston University (Commonwealth)  
+- Dubhlinh University (Commonwealth)
+- Victoria University (Commonwealth, publicly funded)  
+- University of Brandenstadt (Rapusia)  
+- Saxenburg Polytechnical Institute (Rapusia)  
+- Altenhaus Polytechnical Institute (Rapusia)
+- Medyeva Technical University (Canausbel)  
+- Losinyygrad University (Canausbel)
+- Vostok University (Canausbel)
+- Wakoku Imperial University (Dai-Koku)  
+- Tyle University (Kingerse)  
+- University of Monte Bianco (Monte Bianco; the oldest university on Nova Terra, so old it still sorts its students into nations)
+- The Great Seminary (Monte Bianco; actually a decent place to go for a secular education)
 
 **Newspapers:** There exist many newspapers on Nova Terra. Together with newsreels and the emerging television broadcast, they are Nova Terrans’ principal sources on current affairs and cultural shenaniganry. Some are very reliable, and others are considered gossipy tabloids (like the Commonwealth’s Daily Astre), and still others are considered mouthpieces for whoever’s printing them. Here are some of them, by importance:  
-— The Tank City Times (quite possibly the world’s most trusted newspaper)   
-— The Economic Chronicle (the principal finance newspaper of Nova Terra, a Tankian publication)  
-— The Times (of Lundburgh, an equally respectable newspaper, and the probable namesake of most newspapers that have “Times” in their masthead)  
-— Die Brandenstater Beobachter (you’d think it’d be a state mouthpiece, but no; it’s the voice of the Rapusian centre-right and the Rapusian newspaper of record)  
-— Svoboda (the state Canausbelite newspaper, biased towards socialism in the editorials, but the reporting is factually accurate)  
-— Kinyu Shimbun (a reliable source on matters pertaining to Dai-Koku and/or its corporations)  
-— The Minerva (A Diplomatian paper, published in Ambessa; its country’s newspaper of record)
-— The Uncensored News (a tabloid funded by the Rapusian Homeland Party, widely considered to be inflammatory for the sake of being inflammatory; the sort of tabloid you buy out of morbid curiosity and immediately regret)  
-— The Daily Astre (a Commonwealth tabloid, hardline nationalists in politics and well-known for celebrity gossip)  
+- The Tank City Times (quite possibly the world’s most trusted newspaper)   
+- The Economic Chronicle (the principal finance newspaper of Nova Terra, a Tankian publication)  
+- The Times (of Lundburgh, an equally respectable newspaper, and the probable namesake of most newspapers that have “Times” in their masthead)  
+- Die Brandenstater Beobachter (you’d think it’d be a state mouthpiece, but no; it’s the voice of the Rapusian centre-right and the Rapusian newspaper of record)  
+- Svoboda (the state Canausbelite newspaper, biased towards socialism in the editorials, but the reporting is factually accurate)  
+- Kinyu Shimbun (a reliable source on matters pertaining to Dai-Koku and/or its corporations)  
+- The Minerva (A Diplomatian paper, published in Ambessa; its country’s newspaper of record)
+- The Uncensored News (a tabloid funded by the Rapusian Homeland Party, widely considered to be inflammatory for the sake of being inflammatory; the sort of tabloid you buy out of morbid curiosity and immediately regret)  
+- The Daily Astre (a Commonwealth tabloid, hardline nationalists in politics and well-known for celebrity gossip)  
 And there still exist plenty of news agencies; organisations of newspapers that produce news that are distributed to its members. Many nations have national news agencies, like the Associated Press of Rapusia; though there do exist several big ones like Hardelmann, W. A. Smith, Tankian Press, Louis & cie and the World Press Alliance. 
 
 **The rise of environmentalism:** Tankism, the dominant religion of the planet, already places Living Tanks above humans. As a result, most nations have facilities and territories where Living Tanks wild, domestic and retired can roam freely in a natural environment; termed sanctuaries collectively. As a result, nature reserves (land left purposefully underdeveloped to attempt to preserve the natural environment) as a concept emerged in the 1870s in the UTP, preserving the creation of the Great Tank as a public space with free entry and exit, which has led to a surprisingly strong conservation movement as of the mid-20th century.
