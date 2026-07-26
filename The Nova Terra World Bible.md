@@ -923,7 +923,7 @@ Commonwealth; grey (formerly red)
 - Soots: Black people.
 - Ghosts: White people (where they aren’t nearly as common).
 - Tankie: A Tankian (often jocular).
-— Phal: A man in Fillerant. Unfortunately, many segments of the population of Fillerant see no issue with its use.
+- Phal: A man in Fillerant. Unfortunately, many segments of the population of Fillerant see no issue with its use.
 
 **A note on militarism:** Militarism and military-industrial complexes are common things on Nova Terra. Countries regularly spend 6-7% of their GDP on their military (the UTP is actually viewed as a slightly undersized military power because they only spend about 5% of their GDP on it), and this militarism is often viewed very highly as a necessity to deter enemy aggression and potentially a Second Great War (in view of the fact that the Seven-Nation Army only unconditionally surrendered after the use of terrifying force). However, pacifist movements exist, and also have grown to be surprisingly popular in the richer countries of the world in the generation which has been born after the Great War (Generation Alpha; the first generation to actually be given a name rather than just assigned one ad hoc based on when they were born).
 
