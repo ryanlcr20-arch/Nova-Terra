@@ -1,4 +1,4 @@
-Nova Terran Wars
+Nova Terran Wars (since the Great War)
 
 
 Rapusian Overseas War (1947-?)
@@ -20,9 +20,13 @@ The Commonwealth won, but had a taint on its international reputation due to the
 Trarori-Jesusland War (1950-1958): Jesusland vs. Traroria (Trarorian victory)
 Started over a territorial dispute over the lands surrounding Lake Traror (controlled and claimed by Traroria)
 Porte Alegreya, Traroria’s capital, is located on the north coast of the lake, but has a sizeable Jesuslander population
-Jesusland invaded, which led to a protracted conflict reminiscent of the early Great War in trench warfare, but in rough terrain due to their relative military parity
+Jesusland invaded, which led to a protracted conflict reminiscent of the early Great War in trench warfare, but in rough terrain due to their relative military parity, and with the increasing use of child soldiers to fill in manpower shortages
+Both sides alleged the use of chemical weapons
 Jesusland was repulsed, and signed a peace treaty renouncing its claims on Trarorian territory, but became closer to Rapusia & the Taunfurt Pact as a result
 Skirmishes continue between them
+West Cavalistan conflict (1954-1956): Cavalistan vs. Skiyia (inconclusive)
+Cavalistan, in response to reports of discrimination against the Cavali population of West Cavalistan (under the rule of Skiyia), and also due to Cavalistani confidence in the wake of the Grease War, began a campaign of border raids against Skiyia
+This led to several tense stand-offs and skirmishes in the mountains and deserts of their border until Kingerse negotiated a ceasefire between them that resulted in minor border adjustments
 Nyassaland Uprising (1955-1956)
 A colonial uprising in Rapusian Nyassaland
 Brutally suppressed using such lovely tactics as carpet-bombing and summary execution of alleged rebels
@@ -41,6 +45,9 @@ Some of the natives seize the opportunity to rise up and proclaim the Republic o
 Community of Nations Peacekeepers engaged in humanitarian work
 Refugee crisis affects Maralgorange, Flipadossa, Kirbistan and Auxur
 Some allege that the Great Syndicate is an extension of Maralgorange’s crime networks, even if Maralgorange is officially neutral in the conflict
+San Martino Insurgency (1961-): San Martino & Pangarap vs. New Skiyia & UTP
+The oppressed, resentful indigenous peoples of the region of San Martino launched an uprising inspired by the ideals of indigenism (an ideology that supports suppressing all “foreign” and “non-indigenous” peoples and influences)
+The UTP, worried by such developments, began an intervention in 1962 via a couple of well-placed drone strikes in San Martino itself without any declaration of war or the such until several hours afterwards
 Second Ataraxi-Dupelander War (1961-1968): Ataraxia vs. Dupeland (Status quo bellum ante)
 Fought over water rights in the region
 Dupeland is fighting for survival (but is a theocratic absolute monarchy) and Ataraxia is a democracy (a corrupt, vaguely religious-socialist one with a weaker claim)
@@ -85,6 +92,12 @@ Scramble for Terra Antipolaris (1923-)
 Began after the end of the first phase of the Great War, but went into high gear after the end of the Great War
 Primarily due to Terra Antipolaris’ (presumed) untapped resources, and the prestige of having people on the last southern frontier of Nova Terra
 The Commonwealth, Diplomatians, Western Quaristanicaval, the UTP, Rapusia, Canausbel, Dai-Koku and Pangarap all have territories here, often overlapping (in the case of the Commonwealth and Western Quaristanicaval, it resulted in a minor territorial dispute resolved peacefully)
+Rafaristan Affair (1953)
+The long serving prime minister of Rafaristan, Mohammed Iravi, was the target of numerous protests that year calling for his resignation, suppressed with violence by the Royal Police (on Iravi’s orders) due to perceived economic decline, election fraud and his perceived servitude to Qurkian interests
+This all came to a head when the Queen of Rafaristan (on the advice of several known Tankian agents) dissolved Parliament and called new elections; in what was described as a de-facto coup d’état
+Mohammed Iravi himself was placed under house arrest shortly afterwards by the military
+While under house arrest, president Duranceau of the UTP authorized an operation to kidnap him and extradite him to the UTP for unrelated charges of drug trafficking
+This was a shocking event to most of Nova Terra, provoking discussions on what a Great Power can and cannot do (though the main complaint the Rafaris had was that they couldn’t hang him themselves; that was otherwise in general their sole complaint about the affair)
 Rapusian Crisis (1956)
 Caused by the rising cost of living, crumbling infrastructure, austerity and corruption
 Led by the Independent Social-Democratic Labour Party (while still banned) and the SDPR
@@ -120,9 +133,11 @@ Central Lander refugee crisis (1962)
 An unusually large number of people fled from Gyattisland across the sea to Central Land that year (probably because of the Bush War), often in heavily overcrowded ships
 Massive diplomatic pressure on Central Land to let them enter
 In the end, about 60% of the refugees were turned back by the Central Lander Navy, and upwards to 17,000 died 
+Cod War (1962-1968) 
+A series of fishing disputes (gone naval) between Auxur and Rapusian Libra
 Koryos Missile Crisis (1966)
 Koryos is a large Canausbelite island off its Annular coast, a demilitarized zone ever since Canausbel regained it from Rapusia in 1947 (a major sore spot for Canausbel)
-Canausbel violated the provision by stationing IRBMs on it
+Canausbel violated the provision by stationing IRBMs on it, claiming that it was an illegitimate imposition due to the fact that it was agreed to in a separate treaty from the Treaty of Tank City that ended the Great War
 In response, Rapusia stationed ICBMs as close as they could to the Canausbelite border, and Canausbel followed suit
 However, negotiations between Rapusia and Canausbel managed to prevent crisis
 The Protests of 1968 (1968)
