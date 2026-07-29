@@ -846,7 +846,7 @@ Most countries on Nova Terra generally use bolt-action or semi-automatic rifles 
 
 **Intelligence agencies:** Nova Terra’s nations have intelligence agencies for collecting information about foreign nations and people in general. They form the heart of their respective national intelligence communities, and many nations possess quite a lot of them for specific purposes (e.g. the various military intelligence organisations, which are generally not listed because it would take very long to do so). The important ones are:
 - United Tank Provinces: Office of Strategic Intelligence Services (OSIS; a civilian office in charge of foreign intelligence as a whole); Gendarmerie (a paramilitary law enforcement organisation that also handles domestic intelligence and limited foreign intelligence when it pertains to domestic security)
-- Rapusia: Federal Intelligence Service (foreign intelligence, civilian; Abwehr (general military intelligence organisation); Kagepo (civilian secret police, domestic operations)
+- Rapusia: Federal Intelligence Service (foreign intelligence, civilian); Abwehr (general military intelligence organisation); Kagepo (civilian secret police, domestic operations)
 - Canausbel: Ministry of State Security (civilian intelligence foreign and domestic)
 - Commonwealth: Secret Intelligence Service (all civilian intelligence operations, Section 5 being domestic intelligence and 6 foreign)
 - Pusheen Country: Security Service (civilian service in charge of domestic surveillance); Section 9 (military service in charge of foreign intelligence)
