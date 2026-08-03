@@ -231,7 +231,7 @@ Culture: Olympianist majority in terms of religion, but the state remains offici
 
 **Current concern:** Premier Anton Poroshenko is attempting to bypass democratic institutions; Bourquist gradualism provides theoretical justification for every tightening of control. The right-wing opposition exploits this by emphasizing minority rights and liberal conceptions of democracy, in contrast to Bourquist collectivism and Canausbelite nationalism. However, protests still occur against his rule without being violently repressed, dissent within the CWP exists, and Canausbelite civil society continues to function.
 
-**Heads:** President Bryson Aeltia (populist; president from 1957 onwards) and Premier Anton Poroshenko, a centrist within the CWP, the aforementioned wannabe authoritarian, and only recently the premier; since 1962 after a brief power struggle in the aftermath of the death of the late giant of Canausbelite politics, Javis Mendriks; first premier of Red Canausbel.
+**Heads:** President Bryson Aeltia (populist; president from 1959 onwards, protege of Mendrik’s) and Premier Anton Poroshenko, a centrist within the CWP, the aforementioned wannabe authoritarian who took power in 1962 after a brief power struggle.
 
 ---
 
@@ -1085,10 +1085,10 @@ And there still exist plenty of news agencies; organisations of newspapers that 
 
 ## INTERNATIONAL CRISES (since the Great War)
 
-**Rapusian Overseas War (1947-?):**
-- Rapusia, even after the Great War, had massive colonies, especially in Libra
+**Rapusian Overseas War (1947-?):** Various rebel groups vs. Rapusia
+- Rapusia, even after the Great War, had massive colonies, especially in Libra (in part a compromise to assure a balance of power)
 - As a consequence, Rapusia had to deal with persistent, low-level insurgency, which sometimes flared up into even larger uprisings like in Nyassaland ‘55
-- These uprisings were frequently suppressed with brutality, though by the 1960s there was more oversight from civilian authorities in Brandenstadt
+- These uprisings were frequently suppressed with brutality, though by the 1960s there was more oversight from civilian authorities in Brandenstadt after several scandals
 - Often, though, they signed off on the same brutal practices that the Wehrmacht did when they were unsupervised…
 
 **Grease War (1948-1949):** Kekistan vs. Cavalistan (Cavalistani victory)
@@ -1124,13 +1124,13 @@ And there still exist plenty of news agencies; organisations of newspapers that 
 **Nyassaland Uprising (1955-1956):**
 - A colonial uprising in Rapusian Nyassaland
 - Brutally suppressed using such methods as carpet-bombing and summary execution of alleged rebels
-- International condemnation, but at the same time this was a Great Power which promoted sovereignty (and people ended up backing Rapusia anyway), so nothing happened in the meantime
+- International condemnation, but due to Rapusia’s sheer influence and power (and the fact that many states openly sympathised with Rapusia due to its rhetoric of sovereignty), nobody ended up doing anything about it
 
 **Gyattisland Bush War (1958-1976):** Cartegenia & Gyattisland vs. Rapusia & Mianmaur People’s Liberation Army (Rapusian victory through pro-Rapusian ceasefire)
 - Fought over Gyattisland, a Cartegenian client state used as a buffer against the Rapusian colonies and a container for restive ethnicities (including the Mianmau)
 - Guerrilla warfare was present along with conventional warfare between Cartegenian-supported forces and Rapusia-supported forces
 - Some people in the Rapusian colonies seized the opportunity to flee to Cartegenia, while others tried to flee to Central Land (with mixed results)
-- Ended with a CoN-mediated ceasefire that made Rapusia guarantee Gyattisland’s independence while Gyattisland remained ostensibly sovereign, but still quite unstable and essentially one bad sneeze away from collapsing into a patchwork of ethnic states
+- Ended with a CoN-mediated ceasefire that made Rapusia guarantee Gyattisland’s independence while Gyattisland remained ostensibly sovereign, but leaving a nation effectively one bad sneeze away from collapsing into a patchwork of ethnic states
 
 **Twittertopian Civil War (1959-?):**
 - Fought between Twittertopia, the National Salvation Government, and numerous other factions
@@ -1144,7 +1144,7 @@ And there still exist plenty of news agencies; organisations of newspapers that 
 
 **San Martino Insurgency (1961-):** San Martino & Pangarap vs. New Skiyia & UTP
 - The oppressed, resentful indigenous peoples of the region of San Martino launched an uprising inspired by the ideals of indigenism (an ideology that supports suppressing all “foreign” and “non-indigenous” peoples and influences)
-- The UTP, worried by such developments, began an intervention in 1962 via a couple of well-placed drone strikes in San Martino itself without any declaration of war or the such until several hours afterwards
+- The UTP, worried by such developments, began an intervention in 1962 via a couple of well-placed drone strikes in San Martino itself without any declaration of war or any such declaration until several hours afterwards
 
 **Second Ataraxi-Dupelander War (1961-1968):** Ataraxia vs. Dupeland (status quo bellum ante)
 - Fought over water rights in the region
@@ -1152,27 +1152,26 @@ And there still exist plenty of news agencies; organisations of newspapers that 
 - Proxy war between Canausbel (Ataraxia) and Rapusia (Dupeland)
 - War fought using Great War-era technology, primarily in the mountains
 - Both sides attempted to use guerrilla warfare on each other, failing miserably and causing thousands of casualties
-- Ended in a stalemate, mediated by the UTP, and even then minor skirmishes continue between them
+- Ended in a stalemate, mediated by the UTP, and even then minor skirmishes continue between them to this very day
 
 **Ishanian Crisis (1961-1974):**
 - Started after the Ishanian Army fired upon striking workers with artillery
 - Escalated into a full-blown rebellion led principally by the pro-democracy (Tridemist) Society of Ishanian Nationalists, organised into the Blue Battalions
 - In some Nationalist-controlled areas, a proto-state emerged known as the Ishanian Republic
 - Many warlords tried to remain neutral, but frequently ended up crushed by the Imperials or overthrown from the bottom by the Nationalists
-- Although the Nationalists lost in the end, Ishanis ended up adopting universal male suffrage for the Legislative Yuan in 1979, vindicating the Nationalists retroactively
+- Although the Nationalists lost in the end, Ishanis ended up adopting universal male suffrage for the Legislative Yuan in 1979
 - All in all, about 12 million Ishanians died because of the insurgency and its consequences
 - In the first (relatively) free elections in Ishanian history, in 1979, a new party ended up winning in a landslide: The Society of Ishanian Nationalists
 - This was a revival of the original Society rather than the exact same organisation, technically, but still
-- To this day, many believe that if women were allowed to vote, the Nationalists would likely win by an even larger margin
 
 **Syudd War (1964-1977):** People’s Democratic Liberation Front of Syudd vs. Commonwealth, Syudd (PDLF victory)
 - Syudd was historically a Commonwealth protectorate since the 1880s
 - Syudd gained independence in 1962
-- Nationalist-socialist insurgency begins
+- Nationalist-socialist insurgency began in 1964
 - International criticism of the Commonwealth’s intervention
 - The Syuddese clearly wanted the Commonwealth to leave already
-- After a long asymmetric war, the Commonwealth withdrew in 1976, fueling a sense of bitterness within the Commonwealth
-- War crimes committed by all sides (though particularly common amongst the rebels)
+- After a long asymmetric war, the Commonwealth withdrew in 1976, fueling a “stab-in-the-back” myth within the Commonwealth soon after
+- War crimes committed by all sides (though particularly common and severe amongst the rebels, who frequently targeted civilians who didn’t immediately join them)
 - Some spillover into neighbouring Rapusian colonies, which used the inspiration of the rebels to rise in open revolt against their colonial overlords
 
 **Androsia War / Two-Day War (1968):** Rapusia, Silent Devils vs. Androsia (Rapusian victory)
@@ -1220,8 +1219,8 @@ And there still exist plenty of news agencies; organisations of newspapers that 
 - Primarily involved strikes, walkouts (such as at the Wolecław arms works), sit-ins, protests, riots, and even one naval mutiny
 - Some radicals attempted to occupy public spaces and government buildings, leading to their characterisation as putschists
 - Anarchy and chaos broke out in many cities during these riots, with looters and criminals exploiting the attempted revolution
-- In the end movement was violently suppressed by the military with upwards to 4,000 killed
-- However, the crisis ultimately resulted in increased parliamentary accountability for the Chancellor
+- In the end, the anarchy was violently ended by the military with upwards to 4,000 killed across the country
+- However, the crisis ultimately resulted in parliamentary accountability for the Chancellor with a constitutional amendment passed in 1957
 
 **Stormy Sea Crisis (1956):**
 - The Commonwealth accumulated massive national debt during its reconstruction efforts, much of it owed to North Contanan investors
@@ -1229,30 +1228,29 @@ And there still exist plenty of news agencies; organisations of newspapers that 
 - This resulted in a tense military standoff, with the Commonwealth threatening nuclear retaliation if North Contana acted
 - North Contana notably did not possess nuclear weapons at the time
 - The UTP prevented escalation by threatening an embargo on North Contanan manganese exports
-- Shortly afterwards, the Sterren government lost a constructive vote of no confidence
-- A new Grand Pensionary took office and ordered North Contana’s forces to stand down
+- Shortly afterwards, the Sterren government lost a constructive vote of no confidence, and a new Grand Pensionary took office and ordered North Contana’s forces to stand down
 - The Stadshallare issued a formal apology and promised such a crisis would not happen again
 - Rapusia did not intervene, as it was distracted by its own internal crisis, and much of the rest of the world was occupied watching the possible collapse of one of the world superpowers
 
 **First Quaristanicaval Crisis (1959):**
-- Pangarap threatened war with Western Quaristanicaval
+- Pangarap threatened war with Western Quaristanicaval as typical
 - The Community of Nations responded with even harsher sanctions against Pangarap, despite the country already suffering from famine
-- All major powers rejected Pangarap’s threats
-- Pangarap backed down, but only due to pressure from the Great Powers, which its leadership openly resented
+- The Great Powers effectively told Pangarap “no” without any subtlety
+- Pangarap backed down, but only due to pressure from the Great Powers (which its leadership later called imperialism)
 
 **Assassination of Franco Prat (1960):**
 - Franco Prat was the newly elected Duke of Salmana and President of the Trade Confederacy
 - The Trade Confederacy was strategically important due to the Salmana Canal, a major maritime route connecting the Central Ocean and Great Ocean
 - Prat was a populist authoritarian who advocated for stronger Salmanese neutrality and national sovereignty over the Salmana Canal Zone
 - He frequently kidnapped political opponents and had used violence against protestors
-- He was assassinated in 1960 during a rally
+- He was assassinated in 1960 during a political rally in Salmana City
 - Officially, the assassin was a disgruntled intern
 - Many outside the FNA believed the assassination was actually an OSIS operation intended to remove a potential enemy, with the intern acting as a proxy
 
 **Highlands Incident (1960):**
 - A Rapusian spy plane was shot down over the Scotian Highlands
-- For three weeks, tense negotiations took place over the fate of the pilot
-- The pilot was eventually returned to Rapusia
+- For three weeks, tense negotiations took place between Rapusia and the Commonwealth over the fate of the pilot
+- The pilot was eventually returned to Rapusia after a few weeks
 - He later published a memoir criticizing Rapusia’s handling of the incident
 
 **First Skiyian Crisis (1961):**
@@ -1267,7 +1265,7 @@ And there still exist plenty of news agencies; organisations of newspapers that 
 - Many attempted the journey aboard heavily overcrowded ships due to the ongoing Bush War
 - Central Land faced enormous diplomatic pressure to accept them
 - Ultimately, approximately 60% of refugees were turned away by the Central Lander Navy
-- Upwards of 17,000 people died during the crisis
+- Upwards of 17,000 refugees died during the crisis
 
 **Cod War (1962-1968):**
 - A series of fishing disputes between Auxur and Rapusian Libra
