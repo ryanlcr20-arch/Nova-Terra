@@ -168,7 +168,7 @@ Semi-constitutional federal monarchy (with multiple subnational monarchies and a
 
 Economy: Once upon a time, Rapusia was the world’s dominant economic power; during which Rapusia became known as the heart of capitalism, despite (or maybe because) of the fact that the economy was almost entirely dominated by corporations and oligarchs. After the Great War though, the Gelenkte Wirtschaft (informal corporatism with negotiation primarily between large megaconglomerates, the military and the government, with unions being sidelined) has taken the place of the old status quo (due to Rapusia’s experiences with total war). The economy includes such industries as heavy industry, machinery, chemicals, and agriculture; all very profitable sectors. The welfare state has been significantly damaged by austerity (1947-1957), but still functions; healthcare meanwhile is universal but a far cry from its pre-Great War self (and during the austerity period, actively in the process of falling apart), with cheap care but long wait times and mediocre outcomes. The Rapusian government regularly runs on budget deficits that have resulted from the failure of austerity. The Reichsmark is a major global reserve currency alongside the Tankian crown due to rigid financial discipline on the part of the Bank of Rapusia. Somehow manages to have three industrial heartlands, with one in the west (similar to the Ruhr and Belgium; the far southwestern parts were once part of Skiyia and are essentially a shadow of their former self; this entire region is called the Low Country and has its own distinct tradition), one in the centre of Rapusia proper (similar to Bohemia and Saxony; home to the Marten Works, the largest industrial conglomerate in Rapusia) and one in the east (similar to  by the Donbas; the region with the most potential, and yet ravaged by the Great War and still recovering). Very tight monetary policy, which gives the reichsmark credibility as hard currency. Grows at a respectable average of 3.8% per annum as of 1958, though thanks to the return of reconstruction the economy is already picking up steam once again.
 
-**Geography:** Rapusia is a federation of fifteen states, each with its own history and political system before coming together as part of a federation in 1804. Even today, Rapusia is known as the heartland of the remnants of feudalism. Those states, in approximate descending order of importance, are:
+**Geography:** Rapusia is a federation of fifteen nation-states, each with its own history and political system before coming together as part of a federation in 1804. Even today, Rapusia is known as the heartland of the remnants of feudalism. Those states, in approximate descending order of importance, are:
 
 - **Rapusia:** The cultural, economic, political and demographic heart of the empire, with 162 million people. The most developed part of the empire, contributing roughly 60% of the Empire’s GDP.  
 - **Mossovy:** The second-most important state of the empire, home to 80 million people, located in the east. Largely rural, but with significant urban and industrial areas.  
@@ -202,6 +202,8 @@ Culture: Despite stereotypes suggesting otherwise, Rapusians do have a sense of 
 
 **The Rapusian Crisis of 1956:** In the face of austerity and declining quality of life, many Rapusians took to the streets and demonstrated relatively peacefully in May 1956. Strikes, sit-ins, walkouts and in one case a mutiny were some expressions of this tendency; though localized riots occurred and were quickly suppressed by the local police using tear gas and riot gear. Although these protests were initially allowed to continue unimpeded, some radical factions (like the banned Independent Social-Democratic Labour Party) seized government buildings, leading to much more violent riots that in some areas caused complete and utter anarchy; which criminals exploited to great effect. At this point (July 1956), the decision was made to violently suppress all these demonstrations using the military, leading to great loss of life (possibly costing the lives of upwards to 4,000 protestors, rioters and revolutionaries across the Empire) and the end of major protests by November. These protests, however, did lead to the passing of a constitutional amendment in 1956 that made the Chancellor accountable to the Imperial Diet via motions of no confidence (though at this point the Diet would not be electing the Chancellor by any means for several decades).
 
+Language(s): High Rapusian, Mossovian, Ostmarker, Contanan, Kavkazian, etc. High Rapusian occupies the role of “Rapusian” when a single language is required. Overall, there are at least 15 Schedule I protected languages in Rapusia, with many more as minorities within other states.
+
 ---
 
 ### Canausbelite Republic
@@ -234,6 +236,8 @@ Culture: Olympianist majority in terms of religion, but the state remains offici
 **Current concern:** Premier Anton Poroshenko is attempting to bypass democratic institutions; Bourquist gradualism provides theoretical cover for tightening of control. The right-wing opposition exploits this by emphasising minority rights and liberal conceptions of democracy, in contrast to Bourquist collectivism and Canausbelite nationalism. However, protests still occur against his rule without being violently repressed, dissent within the CWP exists, and Canausbelite civil society continues to function.
 
 **Heads:** President Bryson Aeltia (populist; president from 1959 onwards, protege of Mendrik’s) and Premier Anton Poroshenko, a centrist within the CWP, the aforementioned wannabe authoritarian who took power in 1962 after a brief power struggle. Bryson Aeltia in particular despises Poroshenko and has made minor suggestions that he may try to provoke a parliamentary vote of no confidence in his Prime Minister one day.
+
+Language: Canausbelite, unusually, written in Patryllic script unlike literally every other Canausbelite language (e.g. Pusheenian, Mossovian, etc.).
 
 ---
 
@@ -276,6 +280,8 @@ Culture: The Commonwealth is, quite obviously, officially bicultural (Britannian
 
 **Head of government:** Prime Minister Robert Thatcher, a populist one-nation conservative (supporting the welfare state while still being conservative and nationalist; out of the belief that the better-off ought to help the less well-to-do), relatively non-bigoted for Nova Terran standards (his younger daughter is a confirmed bachelor, and he notably doesn’t seem to show any problems with it). A relatively moderate nationalist focused on negotiating a peaceful withdrawal from Syudd after it gained formal independence and trying to get the Commonwealth to pivot to domestic and Columban affairs. Unfortunately, history has other plans.
 
+Language(s): Britannia and Erinese, with many more in the colonies like Atlantean, Skiyian, Rapusian and Ishanian.
+
 ---
 
 ### Pusheenian Empire (Pusheenia; or colloquially Pusheen Country)
@@ -295,7 +301,7 @@ Culture: Orthodox Tankism is the dominant religion. Cats are a national symbol e
 
 **Heads:** Tsar Nikolai IV; Minister-President Petro Kramar (essentially a rubber stamp for the regime, dog person).
 
-Language: Pusheenian.
+Language: Pusheenian. Written in the Universal Script due to writing reforms by King Bohman VI in the 1690s, and other languages of the Canausbelite family have followed suit (aside from Canausbelite itself).
 
 ---
 
@@ -322,6 +328,8 @@ Culture: Strong culture of responsibility, saving face and conformity, inherited
 
 **Head of government:** Hiroshi Kaga, a reformist of the Rikken Minshuto that nevertheless primarily wishes to lessen the impact of corporate mistakes on the common population, rather than outright fighting these corporations, major engines of the economy.
 
+Language(s): Dai-Kokuese, with a small Kannanese minority in the northern islands and a very noticeable Ishanian minority in Choron and Nanto (both conquered in the 1895 war with Ishanis, the Fourth Daikoku-Ishanis War), a major sore spot in Ishanian relations.
+
 ---
 
 ### Federation of Diplomatians
@@ -337,11 +345,13 @@ Economy: Social market economy with a high-trust society and a highly developed 
 
 Military: Diplomatians has a highly capable air force (with their principal fighter being C.110 Phantome jets imported from the UTP), a competent navy and extremely, absurdly advanced aerospace research. Their technology has been described as brilliant, overengineered and occasionally alarming (one columnist described the pace of their advances as “a race with themselves to make manmade horrors within comprehension”); like their construction of a directed-energy weapon designed to shoot down enemy ICBMs and aircraft, officially titled Project Excalibur, but colloquially called the Diplomatian Death Ray. Uses the Model 10, a select-fire battle rifle in 7.5x55mm. A generally well-rounded, professional military (the Diplomatian Federal Armed Forces; with 780,000 active-duty combat personnel) exists (if a bit underfunded due to the lack of war), with most funding going to the Navy (6th-largest in the world) and Air Force. 
 
-Culture: Well known for its murderous wildlife, including the infamous drop bears. Also a major exporter of watches and chocolate; with both being major cultural icons, The flag is sky blue with four stars argent on it in a cross pattern. The design has also made it onto the reverse of every Diplomatian coin, earning the Diplomatian pound its more famous nickname: the starbuck. The Diplomatian language is distantly related to Britannian, but is considerably more archaic than it, having not gone through several major vowel shifts (though some mutual intelligibility exists), which may be part of why the Commonwealth and Diplomatians are close allies.
+Culture: Well known for its murderous wildlife, including the infamous drop bears. Also a major exporter of watches and chocolate; with both being major cultural icons, The flag is sky blue with four stars argent on it in a cross pattern. The design has also made it onto the reverse of every Diplomatian coin, earning the Diplomatian pound its more famous nickname: the starbuck. 
 
 **Note on the Diplomatian space program:** It exists principally as a side project of the Diplomatian Air and Space Research Institute (DASRI), with a satellite being launched in 1958 and no ambitions for the moon for the time being.
  
 **Head of government:** PM Charles Ebbott, an idealistic social democrat, belonging to the left wing of the SDP.
+
+Language: Diplomatian. The Diplomatian language is distantly related to Britannian, but is considerably more archaic than it, having not gone through several major vowel shifts (though some mutual intelligibility exists), which may be part of why the Commonwealth and Diplomatians are close allies.
 
 ---
 
@@ -360,6 +370,8 @@ Culture: Ishanis has a long and storied history, which is reflected in its tradi
 
 **Head of government:** **Chief Minister Hsiang Juo-Kang** is an effective, but ruthless ruler; a competent economic administrator and brutal dictator managing Nationalist (Tridemist) insurgency in the south and disloyal warlords. Profoundly cynical at the personal level, but still something of a patriot. Resigned peacefully after the first democratic elections in Ishanis, and lived a quiet life without ever answering for his atrocities, due to the fact that many Ishanians saw him as a national hero and anti-imperialist.
 
+Language: “Ishanian.” There actually exists a great continuum of Ishanic languages, many of which are mutually unintelligible, but for the purposes of interprovincial communication a variant of the Arlsrest dialect is used.
+
 ---
 
 ### Auxurian Republic
@@ -373,9 +385,11 @@ Economy: Ostensibly capitalist, in practice dominated by the landed gentry of so
 
 Military: Genuinely competent military that has become somewhat radicalized and politicized by inequality. Brigades are traditionally known in the Auxurian Army as legions, and are numbered. Generally well-balanced, if conservative in tactical characteristics and doctrine, oriented towards the defensive side of things and not particularly well known for maneuver warfare. However, it remains somewhat outdated in terms of technology, as previously mentioned. The Auxurian Navy is respectable, being larger than the Timernondese Navy (in fact, overall it’s at 7th place in the naval rankings). The service rifle is the V.12, an indigenous semi-automatic rifle that fires an equally indigenous 7.62x45mm.
 
-Culture: Based heavily off the Empire that preceded this, the Republic that followed it has remained relatively conservative in changing its culture. Auxurian, although the common language of the Auxurians, is often viewed as prestigious (being material for pretentious mottos), and many empires have sought to be a "Second Auxur" (including Rapusia). High culture is flourishing, while low culture increasingly diverges from it. Nostalgia for the Empire is a very common thing (even as it grows increasingly distant), even if most Auxurians think a restoration of the Empire would be a pipe dream. Auxur is also known for its excellent seafood. Although the majority of Auxurians are believers of Orthodox Tankism, a significant Olympianist minority exists in the northeast and the coasts. An enthusiastic football country, being a regular at the AIF World Cup, and characterized by a chaotic, improvisational style. The Auxurian flag is a simple horizontal tricolour of white, green and blue.
+Culture: Based heavily off the Empire that preceded this, the Republic that followed it has remained relatively conservative in changing its culture. Many empires have sought to be a "Second Auxur" (including Rapusia) due to the sheer prestige of the aforementioned Empire. High culture is flourishing, while low culture increasingly diverges from it. Nostalgia for the Empire is a very common thing (even as it grows increasingly distant), even if most Auxurians think a restoration of the Empire would be a pipe dream. Auxur is also known for its excellent seafood. Although the majority of Auxurians are believers of Orthodox Tankism, a significant Olympianist minority exists in the northeast and the coasts. An enthusiastic football country, being a regular at the AIF World Cup, and characterized by a chaotic, improvisational style. The Auxurian flag is a simple horizontal tricolour of white, green and blue.
 
 **Heads:** President Julian Crassus (oligarchic conservative aligned with the elites), cohabiting with Prime Minister Junius Brutus Marcellus (progressive, working within a system designed to prevent genuine reform).
+
+Language: Auxurian. Auxurian is a relatively conservative language, even in the Vulgar Auxurian that is most commonly used (in contrast to the even more conservative Classical Auxurian, the variant used for pretentious mottoes); a prominent case of diglossia even if the average Auxurian generally knows both.
 
 ---
 
@@ -396,7 +410,7 @@ Culture: A very diverse country with at least 12 separate ethnic groups. Even if
 
 **Selanovicism:** Selanovicism is a type of pragmatic authoritarian socialism first invented by Marko Selanovic. It supports the political repression of “bourgeois elements” while still allowing for a notable degree of personal freedom and socialist internationalism. It supports a sort of Timernondese pan-nationalism centred around Selanovic, the “Father of the Timernondese” and current dictator of Timernond (since 1944).
 
-**Language note:** Timernondese was originally meant (in the 1840s) to be a lingua franca, meant to be the average of the major languages spoken in its territory. However, over the course of the years, it has accidentally become the first language of a significant majority of the Timernondese people, with the local languages being in danger of extinction. However, the Timernondese still feel very strong attachment towards their own state within the federation.
+Language: Timernondese, which was originally meant (in the 1840s) to be a lingua franca, meant to be a general pidgin-average of the major languages spoken in its territory. However, over the course of the years, it has accidentally become the first language of a significant majority of the Timernondese people, with the local languages being in danger of extinction. However, the Timernondese still feel very strong attachment towards their own state within the federation.
 
 ---
 
