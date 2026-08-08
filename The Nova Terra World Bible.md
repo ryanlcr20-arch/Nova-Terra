@@ -620,13 +620,13 @@ Please do note that the population, nominal GDP and GNP tables are presently inc
 | 10 | Konnelia | 95.7 |
 | 11 | Skiyia | 90.9 |
 | 12 | Auxur | 88.3 |
-| 13 | Qurkia | 79.2 |
+| 13 | Qurkia | 78.7 |
 | 14 | Cartegenia | 75.9 |
 | 15 | Commonwealth | 72.7 |
 | 16 | Twittertopia | 67.6 |
 | 17 | Diplomatians | 61.9 |
 | 18 | Pangarap | 58.0 |
-| 19 | Monte Bianco | 48.1 |
+| 19 | Monte Bianco | 50.1 |
 | 20 | Jesusland | 46.0 |
 | 21 | New Skiyia | 40.5 |
 | 22 | Syudd | 37.9 |
@@ -640,11 +640,11 @@ Please do note that the population, nominal GDP and GNP tables are presently inc
 | 40 | Western Quaristanicaval | 22.9 |
 | 30 | Varengia | 21.3 |
 | 31 | Central Land | 20.2 |
-| 32 | Aarbrau | 18.0 |
-| 33 | Flipadossa | 18.0 |
-| 34 | Kekistan | 17.9 |
-| 35 | Central Hydra | 16.5 |
-| 36 | United Mayara | 15.3 |
+| 32 | Flipadossa | 18.0 |
+| 33 | Kekistan | 17.9 |
+| 34 | Central Hydra | 16.5 |
+| 35 | United Mayara | 15.3 |
+| 36 | Aarbrau | 15.2 |
 | 37 | Androsia | 13.8 |
 | 38 | Kannan | 13.0 |
 | 40 | Fillerant | 12.0 |
@@ -674,7 +674,7 @@ Please do note that the population, nominal GDP and GNP tables are presently inc
 | 6 | Dai-Koku | 139,461 |
 | 7 | Diplomatians | 121,750 |
 | 8 | Ishanis | 117,467 |
-| 9 | Timernond | 114,396  |
+| 9 | Timernond | 114,396 |
 | 10 | Auxur | 95,216 |
 | 11 | Monte Bianco | 84,512 |
 | 12 | Qurkia | 81,106 |
@@ -705,7 +705,20 @@ Please do note that the population, nominal GDP and GNP tables are presently inc
 | 37 | Tumblria | 6,311 |
 | 38 | Ataraxia | 5,972 |
 | 39 | Trade Confederacy | 5,678 |
-| 40 | Nova Scotia | 5,557 | 
+| 40 | Nova Scotia | 5,557 |
+| 41 | Kirbistan | 5,069 |
+| 42 | Otterburg | 4,923 |
+| 43 | Dupeland | 4,709 |
+| 44 | Reddit Island | 4,232 |
+| 45 | Free Cities | 3,870 |
+| 46 | Noumea | 3,754 |
+| 47 | Gyattisland | 2,892 |
+| 48 | Maralgorange | 2,823 |
+| 49 | Varengia | 2,343 |
+| 50 | San Martino | 1,335 |
+| 51 | Androsia | 938 |
+| 52 | Bazookia | 338 |
+| 53 | Linnia | 34 |
 
 ### Nominal GDP per capita (1963)
 
@@ -778,48 +791,61 @@ Please do note that the population, nominal GDP and GNP tables are presently inc
 
 ### Nominal GNP (Morozow method, 1963)
 
-| Rank | Territory | World Bank estimate (million UP₡) |
+| Rank | Territory | World Bank Estimate (million UP₡) |
 |---:|---|---:|
-| 1 | United Tank Provinces | 705,763 |
-| 2 | Rapusia | 458,751 |
-| 3 | Canausbel | 410,443 |
-| 4 | Britannia-Ireland (Commonwealth) | 197,748 |
-| 5 | Pusheen Country | 152,925 |
-| 6 | Dai-Koku | 138,494 |
-| 7 | Diplomatians | 122,988 |
-| 8 | Ishanis | 109,782 |
-| 9 | Timernond | 113,508 |
-| 10 | Auxur | 99,604 |
-| 11 | Monte Bianco | 84,612 |
-| 12 | Qurkia | 79,454 |
-| 13 | North Contana | 66,124 |
-| 14 | Horonyia | 60,791 |
-| 15 | Skiyia | 59,894 |
+| 1 | United Tank Provinces | 682,446 |
+| 2 | Rapusia | 439,203 |
+| 3 | Canausbel | 372,434 |
+| 4 | Britannia-Ireland (Commonwealth) | 163,578 |
+| 5 | Pusheen Country | 153,977 |
+| 6 | Dai-Koku | 139,461 |
+| 7 | Diplomatians | 121,750 |
+| 8 | Ishanis | 117,467 |
+| 9 | Timernond | 114,396 |
+| 10 | Auxur | 95,216 |
+| 11 | Monte Bianco | 84,512 |
+| 12 | Qurkia | 81,106 |
+| 13 | North Contana | 64,118 |
+| 14 | Horonyia | 63,724 |
+| 15 | Skiyia | 59,258 |
 | 16 | Central Land | 55,819 |
-| 17 | Sharisam | 47,520 |
-| 18 | Cartegenia | 48,324 |
-| 19 | Kannan | 42,872 |
-| 20 | Kingerse | 41,684 |
-| 21 | Konnelia | 32,539 |
-| 22 | New Skiyia | 23,503 |
-| 23 | Western Quaristanicaval | 21,835 |
-| 24 | Twittertopia | 19,391 |
-| 25 | Fillerant | 19,205 |
+| 17 | Sharisam | 50,431 |
+| 18 | Cartegenia | 45,691 |
+| 19 | Kannan | 45,396 |
+| 20 | Kingerse | 38,707 |
+| 21 | Konnelia | 33,592 |
+| 22 | New Skiyia | 23,139 |
+| 23 | Western Quaristanicaval | 22,566 |
+| 24 | Twittertopia | 19,459 |
+| 25 | Fillerant | 18,232 |
 | 26 | Pacifica | 17,234 |
-| 27 | Aarbrau | 12,900 |
-| 28 | Traroria | 11,741 |
-| 29 | Jesusland | 10,631 |
-| 30 | Cavalistan | 10,521 |
-| 31 | Kekistan | 8,965 |
-| 32 | Pangarap | 8,757 |
-| 33 | Central Hydra | 7,224 |
-| 34 | United Mayara | 6,881 |
-| 35 | Flipadossa | 6,600 |
-| 36 | Syudd | 6,738 |
-| 37 | Tumblria | 6,213 |
-| 38 | Ataraxia | 5,822 |
-| 39 | Trade Confederacy | 5,582 |
-| 40 | Nova Scotia | 5,347 |
+| 27 | Aarbrau | 13,170 |
+| 28 | Traroria | 12,379 |
+| 29 | Cavalistan | 11,302 |
+| 30 | Jesusland | 11,183 |
+| 31 | Kekistan | 9,377 |
+| 32 | Pangarap | 8,699 |
+| 33 | Central Hydra | 7,620 |
+| 34 | United Mayara | 7,134 |
+| 35 | Flipadossa | 6,816 |
+| 36 | Syudd | 6,700 |
+| 37 | Tumblria | 6,311 |
+| 38 | Ataraxia | 5,972 |
+| 39 | Trade Confederacy | 5,678 |
+| 40 | Nova Scotia | 5,557 |
+| 41 | Kirbistan | 5,069 |
+| 42 | Otterburg | 4,923 |
+| 43 | Dupeland | 4,709 |
+| 44 | Reddit Island | 4,232 |
+| 45 | Free Cities | 3,870 |
+| 46 | Noumea | 3,754 |
+| 47 | Gyattisland | 2,892 |
+| 48 | Maralgorange | 2,823 |
+| 49 | Varengia | 2,343 |
+| 50 | San Martino | 1,335 |
+| 51 | Androsia | 938 |
+| 52 | Bazookia | 338 |
+| 53 | Linnia | 34 |
 
 ### Nominal GNP per capita (1963)
 
