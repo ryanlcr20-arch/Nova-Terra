@@ -1,6 +1,6 @@
 {
   "vaultSettings": {
-    "activeTheme": "hologram",
+    "activeTheme": "professional",
     "atmosphere": {
       "icons": "core",
       "buttons": "core",
@@ -14,10 +14,11 @@
       "clickEffects": "core",
       "textureOpacity": 0.3
     },
-    "headingFont": "\"Orbitron\", sans-serif",
-    "bodyFont": "\"IBM Plex Mono\", monospace",
+    "headingFont": "\"Merriweather\", serif",
+    "bodyFont": "\"Open Sans\", sans-serif",
     "fontSize": 100,
     "sidebarWidth": 300,
+    "isSidebarVisible": true,
     "isTocVisible": true,
     "areInfoboxTagsVisible": true,
     "areFooterTagsVisible": false,
